@@ -1,0 +1,1 @@
+print(float(input().replace("$", "").replace(",", "").replace(" ", "").strip("грн")))

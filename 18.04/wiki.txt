@@ -1,0 +1,678 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="uk" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Велика панда — Вікіпедія</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","січень","лютий","березень","квітень","травень","червень","липень","серпень","вересень","жовтень","листопад","грудень"],"wgRequestId":"31b78787-5794-4116-a91c-8f30c8673e92","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Велика_панда","wgTitle":"Велика панда","wgCurRevisionId":27505012,"wgRevisionId":27505012,"wgArticleId":15343,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Тварини за алфавітом","Статті, що потребують додаткових посилань на джерела з лютого 2019",
+"Усі статті, що потребують додаткових посилань на джерела","Статті з твердженнями без джерел","Вікіпедія:Сторінки з посиланням на Віківиди","Червоний список МСОП уразливих видів (VU)","Ведмедеві","Ссавці Азії","Тварини-символи"],"wgPageContentLanguage":"uk","wgPageContentModel":"wikitext","wgRelevantPageName":"Велика_панда","wgRelevantArticleId":15343,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"accuracy":{"levels":3,"quality":2,"pristine":4}}},"wgStableRevisionId":27505012,"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"uk","pageLanguageDir":"ltr",
+"pageVariantFallbacks":"uk"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"українська","wgNoticeProject":"wikipedia","wgWikibaseItemId":"Q33602","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0};RLSTATE={"ext.gadget.showContributorContent":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.flaggedRevs.icons":"ready","oojs-ui-core.styles":"ready","oojs-ui.styles.indicators":"ready","mediawiki.widgets.styles":"ready","oojs-ui-core.icons":"ready","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","mediawiki.toc.styles":"ready","skins.vector.styles.legacy":"ready","wikibase.client.init":"ready","ext.flaggedRevs.basic":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready",
+"ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","skins.vector.js","mediawiki.page.ready","mediawiki.toc","ext.flaggedRevs.advanced","ext.gadget.CurIDLink","ext.gadget.collapserefs","ext.gadget.ReferenceTooltips","ext.gadget.edittop","ext.gadget.new-section","ext.gadget.newTopicOnTop","ext.gadget.MonobookToolbarStandard","ext.gadget.ProtectionIndicator","ext.gadget.Statistics","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"uk"});
+});});</script>
+<link rel="stylesheet" href="/w/load.php?lang=uk&amp;modules=ext.cite.styles%7Cext.flaggedRevs.basic%2Cicons%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.toc.styles%7Cmediawiki.widgets.styles%7Coojs-ui-core.icons%2Cstyles%7Coojs-ui.styles.indicators%7Cskins.vector.styles.legacy%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?lang=uk&amp;modules=startup&amp;only=scripts&amp;raw=1&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?lang=uk&amp;modules=ext.gadget.showContributorContent&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?lang=uk&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.35.0-wmf.27"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/1200px-Grosser_Panda.JPG"/>
+<link rel="alternate" type="application/x-wiki" title="Редагувати" href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit"/>
+<link rel="edit" title="Редагувати" href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Вікіпедія (uk)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//uk.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Вікіпедія — Atom-стрічка" href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D1%96_%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F&amp;feed=atom"/>
+<link rel="canonical" href="https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Велика_панда rootpage-Велика_панда skin-vector action-view">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+</div>
+
+	<h1 id="firstHeading" class="firstHeading" lang="uk">Велика панда</h1>
+	
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">Матеріал з Вікіпедії — вільної енциклопедії.</div>
+		<div id="contentSub"></div>
+		
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Перейти до навігації</a>
+		<a class="mw-jump-link" href="#p-search">Перейти до пошуку</a>
+		<div id="mw-content-text" lang="uk" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="toccolours" style="position:relative; margin: 0 0 0.5em 1em; border-collapse: collapse; float:right; clear:right; width:260px;" border="1" cellpadding="0">
+
+<tbody><tr style="text-align:center;">
+<th bgcolor="D3D3A4"><div style="right:0%; position:absolute; font-size:70%; padding:0 .5em 0 2em"><a href="/wiki/%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0:%D0%AF%D0%BA_%D1%87%D0%B8%D1%82%D0%B0%D1%82%D0%B8_%D1%82%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%87%D0%BD%D1%83_%D0%BA%D0%B0%D1%80%D1%82%D0%BA%D1%83" title="Довідка:Як читати таксономічну картку">?</a></div><span style="font-size:110%;">Велика панда</span>
+</th></tr>
+<tr style="text-align:center;">
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Grosser_Panda.JPG" class="image"><img alt="Grosser Panda.JPG" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/258px-Grosser_Panda.JPG" decoding="async" width="258" height="172" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/387px-Grosser_Panda.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Grosser_Panda.JPG/516px-Grosser_Panda.JPG 2x" data-file-width="4272" data-file-height="2848" /></a><br /><small><div style="text-align:center"></div></small>
+</td></tr>
+<tr bgcolor="D3D3A4">
+<th><center><a href="/wiki/%D0%9F%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%BE%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%BD%D0%B8%D0%B9_%D1%81%D1%82%D0%B0%D1%82%D1%83%D1%81" title="Природоохоронний статус">Охоронний статус</a></center>
+</th></tr>
+<tr>
+<td>
+<div style="text-align:center"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Status_iucn3.1_VU_uk.svg" class="image"><img alt="Status iucn3.1 VU uk.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Status_iucn3.1_VU_uk.svg/200px-Status_iucn3.1_VU_uk.svg.png" decoding="async" width="200" height="54" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Status_iucn3.1_VU_uk.svg/300px-Status_iucn3.1_VU_uk.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Status_iucn3.1_VU_uk.svg/400px-Status_iucn3.1_VU_uk.svg.png 2x" data-file-width="260" data-file-height="70" /></a><br /><a href="/wiki/%D0%A3%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D0%B2%D1%96_%D0%B2%D0%B8%D0%B4%D0%B8" title="Уразливі види">Уразливий</a><small>&#160;(<a href="/wiki/%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%9C%D0%A1%D0%9E%D0%9F" class="mw-redirect" title="Червоний список МСОП">МСОП 3.1</a>)<sup id="cite_ref-iucn_1-0" class="reference"><a href="#cite_note-iucn-1">&#91;1&#93;</a></sup></small>
+</div></td></tr>
+<tr style="text-align:center;">
+<th bgcolor="D3D3A4"><b><a href="/wiki/%D0%91%D1%96%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%87%D0%BD%D0%B0_%D0%BA%D0%BB%D0%B0%D1%81%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%86%D1%96%D1%8F" title="Біологічна класифікація">Біологічна класифікація</a></b>
+</th></tr>
+<tr style="text-align:center;">
+<td>
+<table style="margin:0 auto; text-align:left; background:none;" cellpadding="2">
+
+<tbody><tr valign="top">
+<td><a href="/wiki/%D0%94%D0%BE%D0%BC%D0%B5%D0%BD_(%D0%B1%D1%96%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F)" title="Домен (біологія)">Домен</a>:
+</td>
+<td><a href="/wiki/%D0%95%D1%83%D0%BA%D0%B0%D1%80%D1%96%D0%BE%D1%82%D0%B8" title="Еукаріоти">Еукаріоти</a> (Eukaryota)<br /><small></small>
+</td></tr>
+
+
+
+
+<tr valign="top">
+<td><a href="/wiki/%D0%A6%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%BE_(%D0%B1%D1%96%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F)" title="Царство (біологія)">Царство</a>:
+</td>
+<td><a href="/wiki/%D0%A2%D0%B2%D0%B0%D1%80%D0%B8%D0%BD%D0%B8" title="Тварини">Тварини</a> (Metazoa)<br /><small></small>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr valign="top">
+<td><a href="/wiki/%D0%A2%D0%B8%D0%BF_(%D1%82%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%87%D0%BD%D0%B0_%D0%BA%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F)" title="Тип (таксономічна категорія)">Тип</a>:
+</td>
+<td><a href="/wiki/%D0%A5%D0%BE%D1%80%D0%B4%D0%BE%D0%B2%D1%96" title="Хордові">Хордові</a> (Chordata)<br /><small></small>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr valign="top">
+<td><a href="/wiki/%D0%9A%D0%BB%D0%B0%D1%81_(%D0%B1%D1%96%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F)" title="Клас (біологія)">Клас</a>:
+</td>
+<td><a href="/wiki/%D0%A1%D1%81%D0%B0%D0%B2%D1%86%D1%96" title="Ссавці">Ссавці</a> (Mammalia)<br /><small></small>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+<tr valign="top">
+<td><a href="/wiki/%D0%A0%D1%8F%D0%B4_(%D0%B1%D1%96%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F)" title="Ряд (біологія)">Ряд</a>:
+</td>
+<td><a href="/wiki/%D0%A5%D0%B8%D0%B6%D1%96" title="Хижі">Хижі</a> (Carnivora)<br /><small></small>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr valign="top">
+<td><a href="/wiki/%D0%A0%D0%BE%D0%B4%D0%B8%D0%BD%D0%B0_(%D0%B1%D1%96%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F)" title="Родина (біологія)">Родина</a>:
+</td>
+<td><a href="/wiki/%D0%92%D0%B5%D0%B4%D0%BC%D0%B5%D0%B4%D0%B5%D0%B2%D1%96" title="Ведмедеві">Ведмедеві</a> (Ursidae)<br /><small></small>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+<tr valign="top">
+<td><a href="/wiki/%D0%A0%D1%96%D0%B4_(%D0%B1%D1%96%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F)" title="Рід (біологія)">Рід</a>:
+</td>
+<td><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D1%96_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B8&amp;action=edit&amp;redlink=1" class="new" title="Великі панди (ще не написана)">Великі панди</a><br /><small></small>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr valign="top">
+<td><a href="/wiki/%D0%92%D0%B8%D0%B4" title="Вид">Вид</a>:
+</td>
+<td><b>Велика панда</b><br /><small></small>
+</td></tr>
+
+</tbody></table>
+</td></tr>
+
+
+<tr bgcolor="D3D3A4">
+<th><center><a href="/wiki/%D0%91%D1%96%D0%BD%D0%BE%D0%BC%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D0%BD%D0%BE%D0%BC%D0%B5%D0%BD%D0%BA%D0%BB%D0%B0%D1%82%D1%83%D1%80%D0%B0" title="Біноміальна номенклатура">Біноміальна назва</a></center>
+</th></tr>
+<tr style="text-align:center;">
+<td><b>Ailuropoda melanoleuca</b><br /><small>(<a href="/wiki/%D0%90%D1%80%D0%BC%D0%B0%D0%BD_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4" title="Арман Давид">David</a>, 1869)</small>
+</td></tr>
+
+
+
+
+
+
+<tr style="text-align:center;">
+<td><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Mapa_distribuicao_Ailuropoda_melanoleuca.png" class="image"><img alt="Mapa distribuicao Ailuropoda melanoleuca.png" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mapa_distribuicao_Ailuropoda_melanoleuca.png/258px-Mapa_distribuicao_Ailuropoda_melanoleuca.png" decoding="async" width="258" height="198" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Mapa_distribuicao_Ailuropoda_melanoleuca.png/387px-Mapa_distribuicao_Ailuropoda_melanoleuca.png 1.5x, //upload.wikimedia.org/wikipedia/commons/2/26/Mapa_distribuicao_Ailuropoda_melanoleuca.png 2x" data-file-width="415" data-file-height="319" /></a><br /><small></small>
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr bgcolor="D3D3A4">
+<th><center>Підвиди</center>
+</th></tr>
+<tr>
+<td style="padding: 0 .5em;">
+<ul><li><i>A. melanoleuca melanoleuca</i></li>
+<li><i><a href="/wiki/Ailuropoda_melanoleuca_qinlingensis" title="Ailuropoda melanoleuca qinlingensis">A. melanoleuca qinlingensis</a></i></li></ul>
+</td></tr>
+
+
+<tr valign="top" style="text-align:center; background:#D3D3A4;">
+<th><center><b>Посилання</b></center>
+</th></tr>
+<tr>
+<td style="padding: 0 .5em;">
+<table style="margin:0 auto; text-align:center;" cellspacing="2" cellpadding="2" class="same-bg">
+
+
+
+<tbody><tr valign="middle">
+<td><span style="white-space: nowrap;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Commons-logo.svg" class="image"><img alt="Commons-logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/19px-Commons-logo.svg.png" decoding="async" width="19" height="26" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/29px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/38px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D1%81%D1%85%D0%BE%D0%B2%D0%B8%D1%89%D0%B5" title="Вікісховище">Вікісховище</a>:</span>
+</td>
+<td><b><a href="https://commons.wikimedia.org/wiki/Category:Ailuropoda_melanoleuca" class="extiw" title="commons:Category:Ailuropoda melanoleuca">Ailuropoda melanoleuca</a></b>
+</td></tr>
+
+
+<tr valign="middle">
+<td><span style="white-space: nowrap;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:EOL_logo.svg" class="image"><img alt="EOL logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/EOL_logo.svg/37px-EOL_logo.svg.png" decoding="async" width="37" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/EOL_logo.svg/56px-EOL_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/EOL_logo.svg/74px-EOL_logo.svg.png 2x" data-file-width="800" data-file-height="500" /></a> <a href="/wiki/%D0%95%D0%BD%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BF%D0%B5%D0%B4%D1%96%D1%8F_%D0%B6%D0%B8%D1%82%D1%82%D1%8F" title="Енциклопедія життя">EOL</a>:</span>
+</td>
+<td><b><a rel="nofollow" class="external text" href="http://www.eol.org/pages/328070">328070</a></b>
+</td></tr>
+
+
+
+
+<tr valign="middle">
+<td><span style="white-space: nowrap;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:ITIS_logo.svg" class="image"><img alt="ITIS logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/ITIS_logo.svg/37px-ITIS_logo.svg.png" decoding="async" width="37" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/ITIS_logo.svg/56px-ITIS_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/ITIS_logo.svg/74px-ITIS_logo.svg.png 2x" data-file-width="800" data-file-height="426" /></a> <a href="/wiki/%D0%86%D0%BD%D1%82%D0%B5%D0%B3%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0_%D1%82%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%87%D0%BD%D0%BE%D1%97_%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D1%97" title="Інтегрована система таксономічної інформації">ITIS</a>:</span>
+</td>
+<td><b><a rel="nofollow" class="external text" href="https://www.itis.gov/servlet/SingleRpt/SingleRpt?search_topic=TSN&amp;search_value=621845">621845</a></b>
+</td></tr>
+<tr valign="middle">
+<td><span style="white-space: nowrap;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:IUCN_logo.svg" class="image"><img alt="IUCN logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/IUCN_logo.svg/23px-IUCN_logo.svg.png" decoding="async" width="23" height="22" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/IUCN_logo.svg/35px-IUCN_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/IUCN_logo.svg/46px-IUCN_logo.svg.png 2x" data-file-width="150" data-file-height="143" /></a> <a href="/wiki/%D0%9C%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7_%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B8_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B8" title="Міжнародний союз охорони природи">МСОП</a>:</span>
+</td>
+<td><b><a rel="nofollow" class="external text" href="http://apiv3.iucnredlist.org/api/v3/taxonredirect/712">712</a></b>
+</td></tr>
+<tr valign="middle">
+<td><span style="white-space: nowrap;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:US-NLM-NCBI-Logo.svg" class="image"><img alt="US-NLM-NCBI-Logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/US-NLM-NCBI-Logo.svg/19px-US-NLM-NCBI-Logo.svg.png" decoding="async" width="19" height="23" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/US-NLM-NCBI-Logo.svg/29px-US-NLM-NCBI-Logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/US-NLM-NCBI-Logo.svg/38px-US-NLM-NCBI-Logo.svg.png 2x" data-file-width="583" data-file-height="720" /></a> <a href="/wiki/%D0%A2%D0%B0%D0%BA%D1%81%D0%BE%D0%BD%D0%BE%D0%BC%D1%96%D1%87%D0%BD%D0%B0_%D0%B1%D0%B0%D0%B7%D0%B0_%D0%B4%D0%B0%D0%BD%D0%B8%D1%85_NCBI" title="Таксономічна база даних NCBI">NCBI</a>:</span>
+</td>
+<td><b><a rel="nofollow" class="external text" href="http://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&amp;id=9646&amp;lvl=3&amp;p=mapview&amp;p=has_linkout&amp;p=blast_url&amp;p=genome_blast&amp;lin=f&amp;keep=1&amp;srchmode=1&amp;unlock">9646</a></b>
+</td></tr>
+
+
+
+
+
+
+<tr valign="middle">
+<td><span style="white-space: nowrap;"><a href="/wiki/Fossilworks" title="Fossilworks">Fossilworks</a>:</span>
+</td>
+<td><b><a rel="nofollow" class="external text" href="http://fossilworks.org/bridge.pl?a=checkTaxonInfo&amp;taxon_no=104016">104016</a></b>
+</td></tr>
+
+</tbody></table>
+</td></tr>
+
+</tbody></table>
+<p><b>Велика панда</b> (<i>Ailuropoda melanoleuca</i>, <a href="/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9%D1%81%D1%8C%D0%BA%D0%B0_%D0%BC%D0%BE%D0%B2%D0%B0" title="Китайська мова">кит.</a> <span lang="zh" style="font-family:Batang; font-size: 1em">大熊猫</span>, dà-xióng-māo)&#160;— <a href="/wiki/%D0%A1%D1%81%D0%B0%D0%B2%D1%86%D1%96" title="Ссавці">ссавець</a>, якого тепер зараховують до родини <a href="/wiki/%D0%92%D0%B5%D0%B4%D0%BC%D0%B5%D0%B4%D0%B5%D0%B2%D1%96" title="Ведмедеві">ведмедевих</a> (Ursidae).
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="uk" dir="ltr"><h2 id="mw-toc-heading">Зміст</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Загальна_характеристика"><span class="tocnumber">1</span> <span class="toctext">Загальна характеристика</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Цікаві_факти"><span class="tocnumber">2</span> <span class="toctext">Цікаві факти</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Зауваження_щодо_систематики"><span class="tocnumber">3</span> <span class="toctext">Зауваження щодо систематики</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Чисельність_та_природоохоронний_статус"><span class="tocnumber">4</span> <span class="toctext">Чисельність та природоохоронний статус</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Зовнішній_вигляд"><span class="tocnumber">5</span> <span class="toctext">Зовнішній вигляд</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Поведінка"><span class="tocnumber">6</span> <span class="toctext">Поведінка</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Живлення"><span class="tocnumber">7</span> <span class="toctext">Живлення</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Розмноження"><span class="tocnumber">8</span> <span class="toctext">Розмноження</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Панди_за_межами_ареалу"><span class="tocnumber">9</span> <span class="toctext">Панди за межами ареалу</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Панда_як_символ"><span class="tocnumber">10</span> <span class="toctext">Панда як символ</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Панда_в_поп-культурі"><span class="tocnumber">11</span> <span class="toctext">Панда в поп-культурі</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Зоопарки"><span class="tocnumber">12</span> <span class="toctext">Зоопарки</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Див._також"><span class="tocnumber">13</span> <span class="toctext">Див. також</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Примітки"><span class="tocnumber">14</span> <span class="toctext">Примітки</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Посилання"><span class="tocnumber">15</span> <span class="toctext">Посилання</span></a></li>
+</ul>
+</div>
+
+<h2><span id=".D0.97.D0.B0.D0.B3.D0.B0.D0.BB.D1.8C.D0.BD.D0.B0_.D1.85.D0.B0.D1.80.D0.B0.D0.BA.D1.82.D0.B5.D1.80.D0.B8.D1.81.D1.82.D0.B8.D0.BA.D0.B0"></span><span class="mw-headline" id="Загальна_характеристика">Загальна характеристика</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;veaction=edit&amp;section=1" class="mw-editsection-visualeditor" title="Редагувати розділ: Загальна характеристика">ред.</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit&amp;section=1" title="Редагувати розділ: Загальна характеристика">ред. код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Велика панда живе в листяних та хвойних лісах із густим бамбуковим підліском в гористих місцевостях центрального <a href="/wiki/%D0%9A%D0%B8%D1%82%D0%B0%D0%B9" title="Китай">Китаю</a>, таких як <a href="/wiki/%D0%A1%D0%B8%D1%87%D1%83%D0%B0%D0%BD%D1%8C" title="Сичуань">Сичуань</a> і <a href="/wiki/%D0%A2%D0%B8%D0%B1%D0%B5%D1%82" title="Тибет">Тибет</a>, на висоті від 1200 до 4000&#160;м над рівнем моря. Зливи та густі <a href="/wiki/%D0%A2%D1%83%D0%BC%D0%B0%D0%BD" title="Туман">тумани</a> протягом усього <a href="/wiki/%D0%A0%D1%96%D0%BA" title="Рік">року</a> властиві цим <a href="/wiki/%D0%9B%D1%96%D1%81" title="Ліс">лісам</a>, що часто повиті густими <a href="/wiki/%D0%A5%D0%BC%D0%B0%D1%80%D0%B8" class="mw-redirect" title="Хмари">хмарами</a>. Панди вимирають через те, що бамбукові ліси, де вони живуть, масово вирубують і тваринам немає де жити.
+</p><p>Загальна площа їхнього ареалу близько 30 000 км², проте існує думка, що панди живуть на ділянці, що становить не більше 6 000 км². У рідних лісах кожна панда визначає свою територію, помічаючи крайні <a href="/wiki/%D0%94%D0%B5%D1%80%D0%B5%D0%B2%D0%BE" title="Дерево">дерева</a> за допомогою виділень із пахучих залоз. Іноді ці території частково накладаються на чужі межі, проте тварини звичайно уникають одне одного, живучи поодинці.
+</p><p>Китайська назва панди&#160;— <a href="/wiki/%D0%92%D0%B5%D0%B4%D0%BC%D1%96%D0%B4%D1%8C" title="Ведмідь">«ведмідь</a>-<a href="/wiki/%D0%9A%D1%96%D1%82" title="Кіт">кіт»</a> і означає те саме якщо прочитати її в зворотньому напрямку. На заході свою назву «панда» звір отримав через віддалену схожість із <a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Мала панда">малою пандою</a>, також вона була знана під назвою «плямистий ведмідь» (<i>Ailuropus melanoleucus</i>). Ближче до кінця 20-го століття панда стала своєрідним <a href="/wiki/%D0%A1%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB" title="Символ">символом</a> Китаю, та її зображення використовується на китайських <a href="/wiki/%D0%97%D0%BE%D0%BB%D0%BE%D1%82%D0%BE" title="Золото">золотих</a> <a href="/wiki/%D0%9C%D0%BE%D0%BD%D0%B5%D1%82%D0%B0" title="Монета">монетах</a>.
+Вчені не мають точних даних, скільки панди живуть в дикій природі, але, без сумніву, менше ніж у неволі. Китайські вчені повідомляли, що панди в неволі доживали до віку 35 років.
+</p>
+<h2><span id=".D0.A6.D1.96.D0.BA.D0.B0.D0.B2.D1.96_.D1.84.D0.B0.D0.BA.D1.82.D0.B8"></span><span class="mw-headline" id="Цікаві_факти">Цікаві факти</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;veaction=edit&amp;section=2" class="mw-editsection-visualeditor" title="Редагувати розділ: Цікаві факти">ред.</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit&amp;section=2" title="Редагувати розділ: Цікаві факти">ред. код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata plainlinks ambox mbox-small-left ambox-content ambox-Unreferenced" style=""><tbody><tr><td class="mbox-image"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Question_book-new.svg" class="image"><img alt="Question book-new.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" decoding="async" width="50" height="39" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" data-file-width="262" data-file-height="204" /></a></td><td class="mbox-text" style=""> <span class="mbox-text-span">Цей розділ <b>не містить <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F_%D0%BD%D0%B0_%D0%B4%D0%B6%D0%B5%D1%80%D0%B5%D0%BB%D0%B0" title="Вікіпедія:Посилання на джерела">посилань на джерела</a></b>.&#32;<small><i>(лютий 2019)</i></small></span></td></tr></tbody></table>
+<p>Китайське ім'я означає «ведмідь-кішка», при цьому якщо читати його навпаки, то воно означає те ж саме. Західне ім'я великої панди походить від імені малої (червоної) панди. Раніше її також називали плямистим ведмедем (Ailuropus melanoleucus).
+</p><p>Незважаючи на те, що панди відносяться до хижих тварин, їх раціон переважно вегетаріанський. Фактично, вони їдять один тільки бамбук. За день доросла панда з'їдає до 30 кг бамбука і пагонів. Технічно ж, як і багато інших тварин, панди всеїдні.
+</p><p>Коли велика панда не спить, тобто близько 16-ти годин на добу, вона майже постійно харчується. Для збереження маси тіла їй необхідно з'їдати величезну кількість бамбуку, зокрема через те, що вегетаріанська їжа не дуже поживна, а з іншого боку, тому, що травна система панди не така ефективна, як у інших травоїдних тварин. Якщо більшість травоїдних засвоює 80% їжі, то панда лише 17%.
+</p><p>У людини з пандою на 68% збігаються гени.
+</p><p>Велика панда має незвичну будову лапи: окрім п’яти нормальних пальців у неї ще є «великий палець», який насправді є зміненою зап'ястною кісткою.
+</p><p>Шкура панди може коштувати в розмірі двох-трьох середніх річних доходів китайського селянина на деяких азіатських ринках, і в минулому браконьєрство було серйозною проблемою. Проте в результаті освіти, інтенсивність браконьєрства знизилася, і це більше не вважається головною проблемою.
+</p><p>Передача великих панд американським та японським зоопаркам була важливою складовою частиною дипломатії КНР в 1970-х роках, це був один з перших проявів культурного обміну між Китаєм і Заходом.
+</p><p>В Китаї передбачена смертна кара за вбивство панди.
+</p>
+<h2><span id=".D0.97.D0.B0.D1.83.D0.B2.D0.B0.D0.B6.D0.B5.D0.BD.D0.BD.D1.8F_.D1.89.D0.BE.D0.B4.D0.BE_.D1.81.D0.B8.D1.81.D1.82.D0.B5.D0.BC.D0.B0.D1.82.D0.B8.D0.BA.D0.B8"></span><span class="mw-headline" id="Зауваження_щодо_систематики">Зауваження щодо систематики</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;veaction=edit&amp;section=3" class="mw-editsection-visualeditor" title="Редагувати розділ: Зауваження щодо систематики">ред.</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit&amp;section=3" title="Редагувати розділ: Зауваження щодо систематики">ред. код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Тривалий час точна класифікація панди була предметом дискусії серед науковців, оскільки як велика панда, так і червона панда поєднують низку характеристик як ведмедів, так і <a href="/wiki/%D0%A0%D0%B0%D0%BA%D1%83%D0%BD_%D0%B7%D0%B2%D0%B8%D1%87%D0%B0%D0%B9%D0%BD%D0%B8%D0%B9" title="Ракун звичайний">ракунів</a>. Але дослідження молекулярних біологів підтвердили, що велика панда належать до родини <a href="/wiki/%D0%92%D0%B5%D0%B4%D0%BC%D0%B5%D0%B4%D0%B5%D0%B2%D1%96" title="Ведмедеві">Ведмедеві</a> (Ursidae).<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Найближчим її родичем серед ведмедів є <a href="/wiki/%D0%9E%D1%87%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B2%D0%B5%D0%B4%D0%BC%D1%96%D0%B4%D1%8C" title="Очковий ведмідь">очковий ведмідь</a> з <a href="/wiki/%D0%9F%D1%96%D0%B2%D0%B4%D0%B5%D0%BD%D0%BD%D0%B0_%D0%90%D0%BC%D0%B5%D1%80%D0%B8%D0%BA%D0%B0" title="Південна Америка">Південної Америки</a>.
+</p>
+<h2><span id=".D0.A7.D0.B8.D1.81.D0.B5.D0.BB.D1.8C.D0.BD.D1.96.D1.81.D1.82.D1.8C_.D1.82.D0.B0_.D0.BF.D1.80.D0.B8.D1.80.D0.BE.D0.B4.D0.BE.D0.BE.D1.85.D0.BE.D1.80.D0.BE.D0.BD.D0.BD.D0.B8.D0.B9_.D1.81.D1.82.D0.B0.D1.82.D1.83.D1.81"></span><span class="mw-headline" id="Чисельність_та_природоохоронний_статус">Чисельність та природоохоронний статус</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;veaction=edit&amp;section=4" class="mw-editsection-visualeditor" title="Редагувати розділ: Чисельність та природоохоронний статус">ред.</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit&amp;section=4" title="Редагувати розділ: Чисельність та природоохоронний статус">ред. код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Велика панда&#160;— вимираючий вид. Головними загрозами її виживанню є подальша втрата середовища проживання та дуже низький рівень народжуваності, як в неволі так і в дикій природі. Вважають, що в дикій природі живуть близько <span style="white-space: nowrap;">1 600</span> панд.<sup>[<i><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F_%D0%BD%D0%B0_%D0%B4%D0%B6%D0%B5%D1%80%D0%B5%D0%BB%D0%B0" title="Вікіпедія:Посилання на джерела"><span style="cursor:help" title="інформація без джерела">джерело?</span></a></i>]</sup>
+</p><p>На початку вересня 2016 <a href="/wiki/%D0%9C%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7_%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B8_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B8" title="Міжнародний союз охорони природи">МСОП</a> повідомив про збільшення популяції великої панди на 17&#160;% протягом 10 років&#160;— у 2014 році в Китаї у природних умовах було виявлено 1864 особин. Це стало причиною зміни природоохоронного статусу з <a href="/wiki/%D0%92%D0%B8%D0%B4%D0%B8_%D0%BF%D1%96%D0%B4_%D0%B7%D0%B0%D0%B3%D1%80%D0%BE%D0%B7%D0%BE%D1%8E_%D0%B2%D0%B8%D0%BC%D0%B8%D1%80%D0%B0%D0%BD%D0%BD%D1%8F" title="Види під загрозою вимирання">«Під загрозою вимирання»</a> на <a href="/wiki/%D0%A3%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D0%B2%D1%96_%D0%B2%D0%B8%D0%B4%D0%B8" title="Уразливі види">«Уразливий»</a><sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>.
+</p>
+<h2><span id=".D0.97.D0.BE.D0.B2.D0.BD.D1.96.D1.88.D0.BD.D1.96.D0.B9_.D0.B2.D0.B8.D0.B3.D0.BB.D1.8F.D0.B4"></span><span class="mw-headline" id="Зовнішній_вигляд">Зовнішній вигляд</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;veaction=edit&amp;section=5" class="mw-editsection-visualeditor" title="Редагувати розділ: Зовнішній вигляд">ред.</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit&amp;section=5" title="Редагувати розділ: Зовнішній вигляд">ред. код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Велика панда має чорно-біле забарвлення та будову тіла типову для <a href="/wiki/%D0%92%D0%B5%D0%B4%D0%BC%D0%B5%D0%B4%D0%B5%D0%B2%D1%96" title="Ведмедеві">ведмедів</a>. <a href="/wiki/%D0%A8%D0%B5%D1%80%D1%81%D1%82%D1%8C" title="Шерсть">Шерсть</a> на вухах, лапах та плечах <a href="/wiki/%D0%A7%D0%BE%D1%80%D0%BD%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BB%D1%96%D1%80" title="Чорний колір">чорного кольору</a>, також має чорні «окуляри» навколо очей. Решта тіла покрито шерстю <a href="/wiki/%D0%91%D1%96%D0%BB%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BB%D1%96%D1%80" title="Білий колір">білого кольору</a>. Хоча <a href="/wiki/%D0%9D%D0%B0%D1%83%D0%BA%D0%BE%D0%B2%D0%B5%D1%86%D1%8C" title="Науковець">науковцям</a> невідома причина такого забарвлення, дехто припускає, що таке плямисте забарвлення забезпечує панді ефективне маскування на тінистому <a href="/wiki/%D0%A1%D0%BD%D1%96%D0%B3" title="Сніг">снігу</a> та скелях, що характерні для середовища їхнього проживання. Груба шерсть забезпечує тепло панді в її холодних лісах. Велика панда має великі кореневі <a href="/wiki/%D0%97%D1%83%D0%B1%D0%B8" title="Зуби">зуби</a> та сильні щелепні м'язи, що допомагають їй поїдати твердий бамбук.
+</p><p>Розмір панди порівняно із розміром американського чорного ведмедя: на чотирьох лапах її зріст становить 0,5-1&#160;м у холці, <a href="/wiki/%D0%94%D0%BE%D0%B2%D0%B6%D0%B8%D0%BD%D0%B0" title="Довжина">довжина</a> 1,2-1,5&#160;м. Самці більші ніж самки, та можуть важити до 160&#160;кг. Самки рідко досягають <a href="/wiki/%D0%92%D0%B0%D0%B3%D0%B0" title="Вага">ваги</a> понад 90&#160;кг.
+</p><p>Велика панда має незвичну лапу: з «великим пальцем» та п'ятьма нормальними пальцями; «великий палець» насправді є зміненою зап'ястною кісткою.
+</p>
+<h2><span id=".D0.9F.D0.BE.D0.B2.D0.B5.D0.B4.D1.96.D0.BD.D0.BA.D0.B0"></span><span class="mw-headline" id="Поведінка">Поведінка</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;veaction=edit&amp;section=6" class="mw-editsection-visualeditor" title="Редагувати розділ: Поведінка">ред.</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit&amp;section=6" title="Редагувати розділ: Поведінка">ред. код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Великі панди&#160;— істоти <a href="/wiki/%D0%9D%D1%96%D1%87" title="Ніч">нічні</a>, що не сплять від сутінків до світанку. Вдень вони засинають і відпочивають, проте не в постійному лігві, а в затишному місці, де-небудь поміж скель чи навіть у <a href="/wiki/%D0%94%D1%83%D0%BF%D0%BB%D0%BE" title="Дупло">дуплі</a> дерева.
+</p><p>Владно тримаючись на задніх лапах, великі панди звикли завжди рухатися, ступаючи на всі чотири лапи клишоногою ходою. У разі погоні вони переходять на незграбний <a href="/wiki/%D0%9A%D0%BB%D1%83%D1%81" title="Клус">клус</a>, проте невдовзі втомлюються і полишають швидкісний темп. Панди зразкові верхолази, через що часто видираються на нижні гілки дерев, шукаючи корм, чи просто відпочити чи сховатися від небезпеки.
+</p>
+<h2><span id=".D0.96.D0.B8.D0.B2.D0.BB.D0.B5.D0.BD.D0.BD.D1.8F"></span><span class="mw-headline" id="Живлення">Живлення</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;veaction=edit&amp;section=7" class="mw-editsection-visualeditor" title="Редагувати розділ: Живлення">ред.</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit&amp;section=7" title="Редагувати розділ: Живлення">ред. код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:252px;"><div id="mwe_player_0" class="PopUpMediaTransform" style="width:250px;" videopayload="&lt;div class=&quot;mediaContainer&quot; style=&quot;width:640px&quot;&gt;&lt;video id=&quot;mwe_player_1&quot; poster=&quot;//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Pandas_playing_640x480.ogv/640px--Pandas_playing_640x480.ogv.jpg&quot; controls=&quot;&quot; preload=&quot;none&quot; autoplay=&quot;&quot; style=&quot;width:640px;height:480px&quot; class=&quot;kskin&quot; data-durationhint=&quot;33.967266666667&quot; data-startoffset=&quot;0&quot; data-mwtitle=&quot;Pandas_playing_640x480.ogv&quot; data-mwprovider=&quot;wikimediacommons&quot;&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/Pandas_playing_640x480.ogv/Pandas_playing_640x480.ogv.480p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;SD WebM (480P)&quot; data-shorttitle=&quot;WebM 480P&quot; data-transcodekey=&quot;480p.webm&quot; data-width=&quot;640&quot; data-height=&quot;480&quot; data-bandwidth=&quot;1014424&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/Pandas_playing_640x480.ogv/Pandas_playing_640x480.ogv.480p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;SD VP9 (480P)&quot; data-shorttitle=&quot;VP9 480P&quot; data-transcodekey=&quot;480p.vp9.webm&quot; data-width=&quot;640&quot; data-height=&quot;480&quot; data-bandwidth=&quot;1277192&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/5/5b/Pandas_playing_640x480.ogv&quot; type=&quot;video/ogg; codecs=&amp;quot;theora&amp;quot;&quot; data-title=&quot;Оригінальний Ogg файл, 640 × 480 (2,91 Mbps)&quot; data-shorttitle=&quot;Джерело Ogg&quot; data-width=&quot;640&quot; data-height=&quot;480&quot; data-bandwidth=&quot;2910966&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/Pandas_playing_640x480.ogv/Pandas_playing_640x480.ogv.120p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;VP9 з найнижчою пропускною здатністю (120P)&quot; data-shorttitle=&quot;VP9 120P&quot; data-transcodekey=&quot;120p.vp9.webm&quot; data-width=&quot;160&quot; data-height=&quot;120&quot; data-bandwidth=&quot;121232&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/Pandas_playing_640x480.ogv/Pandas_playing_640x480.ogv.160p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;WebM з низькою пропускною здатністю (160P)&quot; data-shorttitle=&quot;WebM 160P&quot; data-transcodekey=&quot;160p.webm&quot; data-width=&quot;214&quot; data-height=&quot;160&quot; data-bandwidth=&quot;128704&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/Pandas_playing_640x480.ogv/Pandas_playing_640x480.ogv.180p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;VP9 з низькою пропускною здатністю (180P)&quot; data-shorttitle=&quot;VP9 180P&quot; data-transcodekey=&quot;180p.vp9.webm&quot; data-width=&quot;240&quot; data-height=&quot;180&quot; data-bandwidth=&quot;201112&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/Pandas_playing_640x480.ogv/Pandas_playing_640x480.ogv.240p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;Невелике WebM (240P)&quot; data-shorttitle=&quot;WebM 240P&quot; data-transcodekey=&quot;240p.webm&quot; data-width=&quot;320&quot; data-height=&quot;240&quot; data-bandwidth=&quot;256248&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/Pandas_playing_640x480.ogv/Pandas_playing_640x480.ogv.240p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;Невелике VP9 (240P)&quot; data-shorttitle=&quot;VP9 240P&quot; data-transcodekey=&quot;240p.vp9.webm&quot; data-width=&quot;320&quot; data-height=&quot;240&quot; data-bandwidth=&quot;320560&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/Pandas_playing_640x480.ogv/Pandas_playing_640x480.ogv.360p.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;&quot; data-title=&quot;WebM (360P)&quot; data-shorttitle=&quot;WebM 360P&quot; data-transcodekey=&quot;360p.webm&quot; data-width=&quot;480&quot; data-height=&quot;360&quot; data-bandwidth=&quot;509504&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;source src=&quot;//upload.wikimedia.org/wikipedia/commons/transcoded/5/5b/Pandas_playing_640x480.ogv/Pandas_playing_640x480.ogv.360p.vp9.webm&quot; type=&quot;video/webm; codecs=&amp;quot;vp9, opus&amp;quot;&quot; data-title=&quot;VP9 (360P)&quot; data-shorttitle=&quot;VP9 360P&quot; data-transcodekey=&quot;360p.vp9.webm&quot; data-width=&quot;480&quot; data-height=&quot;360&quot; data-bandwidth=&quot;639584&quot; data-framerate=&quot;29.97002997003&quot;/&gt;&lt;/video&gt;&lt;/div&gt;"><img alt="Файл:Pandas playing 640x480.ogv" style="width:250px;height:188px" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Pandas_playing_640x480.ogv/250px-seek%3D4-Pandas_playing_640x480.ogv.jpg" /><a href="//upload.wikimedia.org/wikipedia/commons/5/5b/Pandas_playing_640x480.ogv" title="Відтворити" target="new"><span class="play-btn-large"><span class="mw-tmh-playtext">Відтворити</span></span></a></div>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Pandas_playing_640x480.ogv" class="internal" title="Збільшити"></a></div>Панда їсть, встає та грається</div></div></div>
+<p>Попри те що велика панда належить до ряду <a href="/wiki/%D0%A5%D0%B8%D0%B6%D1%96" title="Хижі">хижих</a>, живиться вона переважно <a href="/wiki/%D0%91%D0%B0%D0%BC%D0%B1%D1%83%D0%BA" title="Бамбук">бамбуковими</a> пагонами. Доросла панда протягом дня поїдає до 9-14&#160;кг бамбуку. Як більшість ведмедів, вона є всеїдною твариною та в її раціон входять, окрім бамбуку, <a href="/wiki/%D0%AF%D0%B9%D1%86%D0%B5" title="Яйце">яйця</a>, <a href="/wiki/%D0%9A%D0%BE%D0%BC%D0%B0%D1%85%D0%B8" title="Комахи">комахи</a>, дрібні ссавці, <a href="/wiki/%D0%A0%D0%B8%D0%B1%D0%B0" class="mw-redirect" title="Риба">риба</a>, якщо на них вдається вполювати, а також вживають траву, квіти, гриби, корінці та кору. Як і ведмідь, панда вдається до нападів на бджолині гнізда.
+</p><p>Попри те що бамбук становить близько 99&#160;% раціону тварин, у панд відсутні <a href="/wiki/%D0%93%D0%B5%D0%BD%D0%B8" class="mw-redirect" title="Гени">гени</a>, що кодують <a href="/wiki/%D0%A4%D0%B5%D1%80%D0%BC%D0%B5%D0%BD%D1%82" class="mw-redirect" title="Фермент">ферменти</a>, здатні розщеплювати <a href="/wiki/%D0%A6%D0%B5%D0%BB%D1%8E%D0%BB%D0%BE%D0%B7%D0%B0" title="Целюлоза">целюлозу</a>, наявну в бамбуку. Здатність засвоювати целюлозу пандами приписують мікроорганізмам, що живуть у <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%B2%D0%BD%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Травна система">травній системі</a>.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> Таким чином, травна система в панди не така ефективна, як в інших травоїдних тварин. Якщо більшість травоїдних засвоює 80&#160;% їжі, то панда лише 17&#160;%. Через низькопоживну дієту пандам важливо зберігати повним <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D0%B9_%D1%82%D1%80%D0%B0%D0%BA%D1%82" class="mw-redirect" title="Травний тракт">травний тракт</a>. Це причина, чому панди можуть випорожнюватися до 40 разів на добу.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p><p>Через низьку ефективність травлення, у період неспання, тобто близько 16 годин на добу, панда майже постійно живиться. Для збереження нормальної маси тіла їй необхідно з'їдати величезну кількість бамбука. Специфічна дієта визначає поведінку та анатомію панди. Задля збереження енергії панди стараються уникати соціальних контактів та круто нахиленої місцевості. Округле масивне тіло та спокійний спосіб життя вказують на низький рівень <a href="/wiki/%D0%9C%D0%B5%D1%82%D0%B0%D0%B1%D0%BE%D0%BB%D1%96%D0%B7%D0%BC" class="mw-redirect" title="Метаболізм">метаболізму</a>, що дає змогу економити енергію.<sup id="cite_ref-Johnson_6-0" class="reference"><a href="#cite_note-Johnson-6">&#91;6&#93;</a></sup> Кругла голова&#160;— наслідок наявності масивних м'язів від верху голови до щелепи, які дають змогу пережовувати волокнистий бамбук.
+</p><p>Панди вживають усі 25 видів бамбук, що існують у природі. Лише кілька видів бамбуку ростуть у тих <a href="/wiki/%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%8E%D1%82%D0%BD%D0%B0_%D0%B2%D0%B8%D1%81%D0%BE%D1%82%D0%B0" class="mw-redirect" title="Абсолютна висота">висотах</a>, які зараз населяють панди. Листя бамбука містить найвищий рівень протеїну; стебла&#160;— менший. Через синхронне цвітіння, ріст та відмирання усього бамбука одного певного виду велика панда мусить жити у досяжності принаймні двох різних видів рослини, аби уникнути голодування.
+</p>
+<h2><span id=".D0.A0.D0.BE.D0.B7.D0.BC.D0.BD.D0.BE.D0.B6.D0.B5.D0.BD.D0.BD.D1.8F"></span><span class="mw-headline" id="Розмноження">Розмноження</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;veaction=edit&amp;section=8" class="mw-editsection-visualeditor" title="Редагувати розділ: Розмноження">ред.</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit&amp;section=8" title="Редагувати розділ: Розмноження">ред. код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Сезон парування великих панд триває від середини <a href="/wiki/%D0%91%D0%B5%D1%80%D0%B5%D0%B7%D0%B5%D0%BD%D1%8C" title="Березень">березня</a> до <a href="/wiki/%D0%A2%D1%80%D0%B0%D0%B2%D0%B5%D0%BD%D1%8C" title="Травень">травня</a>, коли тварини знаходять собі пару. На одну самицю претендує 4-5 самців, але щойно гамірне спарювання відбулося, тварини повертаються до колишнього усамітненого способу життя. Через 3-5 місяців самиця знаходить у печері чи дуплі затишний теплий барліг. Вагітність триває від 95 до 160 днів. Заславши лігво листям та гіллям, вона починає народжувати маля. Нерідко на світ з'являються двоє чи троє ведмежат, але у більшості випадків самиця, за браком часу для необхідної опіки та уваги вигодовує одного з них, а решту полишає на загибель.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chengdu-pandas-d18.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Chengdu-pandas-d18.jpg/220px-Chengdu-pandas-d18.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Chengdu-pandas-d18.jpg/330px-Chengdu-pandas-d18.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Chengdu-pandas-d18.jpg/440px-Chengdu-pandas-d18.jpg 2x" data-file-width="1024" data-file-height="768" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Chengdu-pandas-d18.jpg" class="internal" title="Збільшити"></a></div>Тижневе дитинча панди</div></div></div>
+<p>Панди народжуються сліпі й майже голі, вагою не більше 150 г. Перші три тижні самиця практично постійно сидить, не випускаючи малюка з передніх лап та притискаючи його до сосків. Дитинча швидко росте. Наприкінці першого місяця в нього відростає хутро з чорними плямами, а через два тижні розплющуються очі. Ходити воно починає лише через три місяці, а до цього мати постійно його носить на собі.
+</p><p>У п'ятимісячному віці малюк переходить на бамбуковий корм, а ще через місяць його відлучають від грудей. Коли йому виповнюється 1-1,5 року, дитинча залишає матір і провадить самостійне життя. Великі панди досягають статевої зрілості в шестирічному віці, і самиця народжує потомство кожні 2-3 роки.
+</p>
+<h2><span id=".D0.9F.D0.B0.D0.BD.D0.B4.D0.B8_.D0.B7.D0.B0_.D0.BC.D0.B5.D0.B6.D0.B0.D0.BC.D0.B8_.D0.B0.D1.80.D0.B5.D0.B0.D0.BB.D1.83"></span><span class="mw-headline" id="Панди_за_межами_ареалу">Панди за межами ареалу</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;veaction=edit&amp;section=9" class="mw-editsection-visualeditor" title="Редагувати розділ: Панди за межами ареалу">ред.</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit&amp;section=9" title="Редагувати розділ: Панди за межами ареалу">ред. код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft"><div class="thumbinner" style="width:252px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Lightmatter_panda.jpg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Lightmatter_panda.jpg/250px-Lightmatter_panda.jpg" decoding="async" width="250" height="167" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Lightmatter_panda.jpg/375px-Lightmatter_panda.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Lightmatter_panda.jpg/500px-Lightmatter_panda.jpg 2x" data-file-width="720" data-file-height="480" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:Lightmatter_panda.jpg" class="internal" title="Збільшити"></a></div>Доросла панда в зоопарку Сан-Дієго.</div></div></div>
+<p>Про велику панду на Заході вперше довідались в <a href="/wiki/1869" title="1869">1869</a> від <a href="/wiki/%D0%A4%D1%80%D0%B0%D0%BD%D1%86%D1%96%D1%8F" title="Франція">французького</a> <a href="/wiki/%D0%9C%D1%96%D1%81%D1%96%D0%BE%D0%BD%D0%B5%D1%80" title="Місіонер">місіонера</a> <a href="/wiki/%D0%90%D1%80%D0%BC%D0%B0%D0%BD_%D0%94%D0%B0%D0%B2%D0%B8%D0%B4" title="Арман Давид">Давида Армана</a>. Велика панда вже протягом тривалого часу є улюбленцем публіки, частково через свою «дитячу» милу зовнішність, що робить її схожою на живого плюшевого ведмедика. Також до її невинного образу додалось те, що зазвичай зображають як вона мирно поїдає бамбук, а не панду на полюванні. Незважаючи на такий популярний образ, панда може бути такою ж небезпечною, як і будь-який інший ведмідь такого розміру.
+</p><p>Передача великих панд в <a href="/wiki/%D0%A1%D0%A8%D0%90" class="mw-redirect" title="США">американські</a> та <a href="/wiki/%D0%AF%D0%BF%D0%BE%D0%BD%D1%96%D1%8F" title="Японія">японські</a> <a href="/wiki/%D0%97%D0%BE%D0%BE%D0%BF%D0%B0%D1%80%D0%BA" title="Зоопарк">зоопарки</a> була важливою складовою частиною <a href="/wiki/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC%D0%B0%D1%82%D1%96%D1%8F" title="Дипломатія">дипломатії</a> <a href="/wiki/%D0%9A%D0%9D%D0%A0" class="mw-redirect" title="КНР">КНР</a> в <a href="/wiki/1970-%D1%82%D1%96" title="1970-ті">70-х</a> роках, коли розпочався культурний обмін між КНР та Заходом.
+</p><p>Але починаючи з 1984, панди перестали бути об'єктом дипломатії, та Китай почав позичати панд іншим країнам на період 10 років. Стандартна позика включає плату розміром до <span style="white-space: nowrap;">1 000 000 <a href="/wiki/%D0%94%D0%BE%D0%BB%D0%B0%D1%80_%D0%A1%D0%A8%D0%90" title="Долар США">$</a></span> на рік та умову, що малята панди, народжені під час позики, є власністю КНР.
+</p><p>У 1998 <a href="/wiki/%D0%A1%D1%83%D0%B4%D0%BE%D0%B2%D0%B8%D0%B9_%D0%BF%D0%BE%D0%B7%D0%BE%D0%B2" class="mw-redirect" title="Судовий позов">судовий позов</a> Світового Фонду Дикої Природи став причиною того, що Американська Служба Риби та Дичини тепер перед тим, як видавати дозволи на <a href="/wiki/%D0%86%D0%BC%D0%BF%D0%BE%D1%80%D1%82" title="Імпорт">імпорт</a> в країну панд, вимагає від американських зоопарків, що хочуть їх імпортувати, включати в контракти із КНР вимогу про те, що половина виплачених коштів буде спрямовано на захист панд та їхнього середовища проживання.
+</p>
+<h2><span id=".D0.9F.D0.B0.D0.BD.D0.B4.D0.B0_.D1.8F.D0.BA_.D1.81.D0.B8.D0.BC.D0.B2.D0.BE.D0.BB"></span><span class="mw-headline" id="Панда_як_символ">Панда як символ</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;veaction=edit&amp;section=10" class="mw-editsection-visualeditor" title="Редагувати розділ: Панда як символ">ред.</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit&amp;section=10" title="Редагувати розділ: Панда як символ">ред. код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:202px;"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:WWF_logo.svg" class="image"><img alt="" src="//upload.wikimedia.org/wikipedia/uk/thumb/2/24/WWF_logo.svg/200px-WWF_logo.svg.png" decoding="async" width="200" height="297" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/uk/thumb/2/24/WWF_logo.svg/300px-WWF_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/uk/thumb/2/24/WWF_logo.svg/400px-WWF_logo.svg.png 2x" data-file-width="263" data-file-height="390" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/%D0%A4%D0%B0%D0%B9%D0%BB:WWF_logo.svg" class="internal" title="Збільшити"></a></div>Емблема WWF</div></div></div>
+<p>Велика панда є символом <a href="/wiki/%D0%92%D1%81%D0%B5%D1%81%D0%B2%D1%96%D1%82%D0%BD%D1%96%D0%B9_%D1%84%D0%BE%D0%BD%D0%B4_%D0%B4%D0%B8%D0%BA%D0%BE%D1%97_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B8" title="Всесвітній фонд дикої природи">Всесвітнього фонду дикої природи (WWF)</a>.
+</p>
+<h2><span id=".D0.9F.D0.B0.D0.BD.D0.B4.D0.B0_.D0.B2_.D0.BF.D0.BE.D0.BF-.D0.BA.D1.83.D0.BB.D1.8C.D1.82.D1.83.D1.80.D1.96"></span><span class="mw-headline" id="Панда_в_поп-культурі">Панда в поп-культурі</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;veaction=edit&amp;section=11" class="mw-editsection-visualeditor" title="Редагувати розділ: Панда в поп-культурі">ред.</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit&amp;section=11" title="Редагувати розділ: Панда в поп-культурі">ред. код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Панда фігурує в англійському мовному жарті, подібному на відомий жарт російською про використання коми в реченнях: <i>«Казнить нельзя помиловать»</i>. Англійською мовою це звучить наступним чином: <i>Заходить панда в ресторан та замовляє обід. З'їдає його, витягає пістолет, стріляє в стелю та виходить. Обурений власник ресторану вибігає за нею та кричить: «Чому? За що?». Панда повертається, та мовчки дає йому книгу із зоології із поганою пунктуацією, в котрій написано про раціон панд: «Eats, shoots and leaves» (їсть, стріляє та виходить) замість «Eats shoots and leaves» (їсть пагони та листя).</i> (Англійською shoots може, в залежності від контексту, означати або «пагони» або «стріляє» в третій особі однини теперішнього невизначеного часу, leaves: або «листя» або «виходить» в третій особі однини теперішнього невизначеного часу.)
+</p>
+<h2><span id=".D0.97.D0.BE.D0.BE.D0.BF.D0.B0.D1.80.D0.BA.D0.B8"></span><span class="mw-headline" id="Зоопарки">Зоопарки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;veaction=edit&amp;section=12" class="mw-editsection-visualeditor" title="Редагувати розділ: Зоопарки">ред.</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit&amp;section=12" title="Редагувати розділ: Зоопарки">ред. код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Станом на 2009 рік у зоопарках різних країн живуть близько 200 панд.
+</p>
+<ul><li><a rel="nofollow" class="external text" href="http://nationalzoo.si.edu/Animals/GiantPandas/">Національний зоопарк Америки</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.sandiegozoo.org/pandas/">Зоопарк Сан-Дієго</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050208031252/http://www.zoovienna.at/grosserpanda.html">Tiergarten Schönbrunn</a> (Відень)</li>
+<li><a href="/wiki/%D0%97%D0%BE%D0%BE%D0%BF%D0%B0%D1%80%D0%BA_%D0%9B%D0%B0%D0%BD%D1%8C%D1%87%D0%B6%D0%BE%D1%83" title="Зоопарк Ланьчжоу">Зоопарк Ланьчжоу</a></li>
+<li><a href="/wiki/%D0%9F%D0%B5%D0%BA%D1%96%D0%BD%D1%81%D1%8C%D0%BA%D0%B8%D0%B9_%D0%B7%D0%BE%D0%BE%D0%BF%D0%B0%D1%80%D0%BA" title="Пекінський зоопарк">Пекінський зоопарк</a></li></ul>
+<h2><span id=".D0.94.D0.B8.D0.B2._.D1.82.D0.B0.D0.BA.D0.BE.D0.B6"></span><span class="mw-headline" id="Див._також">Див. також</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;veaction=edit&amp;section=13" class="mw-editsection-visualeditor" title="Редагувати розділ: Див. також">ред.</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit&amp;section=13" title="Редагувати розділ: Див. також">ред. код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/%D0%9C%D0%B0%D0%BB%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Мала панда">Мала панда</a></li></ul>
+<h2><span id=".D0.9F.D1.80.D0.B8.D0.BC.D1.96.D1.82.D0.BA.D0.B8"></span><span class="mw-headline" id="Примітки">Примітки</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;veaction=edit&amp;section=14" class="mw-editsection-visualeditor" title="Редагувати розділ: Примітки">ред.</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit&amp;section=14" title="Редагувати розділ: Примітки">ред. код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-iucn-1"><span class="mw-cite-backlink"><a href="#cite_ref-iucn_1-0">↑</a></span> <span class="reference-text">Lü, Z, Wang, D. &amp; Garshelis, D.L. (2008). <a rel="nofollow" class="external text" href="http://www.iucnredlist.org/details/712/0"><i>Ailuropoda melanoleuca</i></a>. <i>2008 <a href="/wiki/%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%9C%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%BE%D0%B3%D0%BE_%D1%81%D0%BE%D1%8E%D0%B7%D1%83_%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B8_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B8" title="Червоний список Міжнародного союзу охорони природи">Червоний список Міжнародного союзу охорони природи</a></i>. <a href="/wiki/%D0%9C%D1%96%D0%B6%D0%BD%D0%B0%D1%80%D0%BE%D0%B4%D0%BD%D0%B8%D0%B9_%D1%81%D0%BE%D1%8E%D0%B7_%D0%BE%D1%85%D0%BE%D1%80%D0%BE%D0%BD%D0%B8_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B8" title="Міжнародний союз охорони природи">МСОП</a> 2008. Переглянуто 24 March 2009. Database entry includes a brief justification of why this species is of least concern.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span class="citation book">Lindburg, Donald G.; Baragona, Karen (2004). <i>Giant Pandas: Biology and Conservation</i>. University of California Press. <a href="/wiki/ISBN" title="ISBN">ISBN</a>&#160;<a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%94%D0%B6%D0%B5%D1%80%D0%B5%D0%BB%D0%B0_%D0%BA%D0%BD%D0%B8%D0%B3/0-520-23867-2" title="Спеціальна:Джерела книг/0-520-23867-2">0-520-23867-2</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fuk.wikipedia.org%3A%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0+%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;rft.au=Baragona%2C+Karen&amp;rft.au=Lindburg%2C+Donald+G.&amp;rft.aulast=Lindburg%2C+Donald+G.&amp;rft.btitle=Giant+Pandas%3A+Biology+and+Conservation&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0-520-23867-2&amp;rft.pub=University+of+California+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span class="citation news"><a rel="nofollow" class="external text" href="http://wwf.panda.org/wwf_news/?uNewsID=277170">Giant panda no longer 'endangered' but iconic species still at risk</a>. <a href="/wiki/%D0%92%D1%81%D0%B5%D1%81%D0%B2%D1%96%D1%82%D0%BD%D1%96%D0%B9_%D1%84%D0%BE%D0%BD%D0%B4_%D0%B4%D0%B8%D0%BA%D0%BE%D1%97_%D0%BF%D1%80%D0%B8%D1%80%D0%BE%D0%B4%D0%B8" title="Всесвітній фонд дикої природи">WWF</a>. 04.09.2016<span class="reference-accessdate">. Процитовано 04.09.2016</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fuk.wikipedia.org%3A%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0+%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;rft.btitle=Giant+panda+no+longer+%27endangered%27+but+iconic+species+still+at+risk&amp;rft.date=04.09.2016&amp;rft.genre=book&amp;rft.pub=WWF&amp;rft_id=http%3A%2F%2Fwwf.panda.org%2Fwwf_news%2F%3FuNewsID%3D277170&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text">«<cite>We did not find any homologues of digestive cellulase genes, including endoglucanase, exoglucanase and beta-glucosidase, indicating that the bamboo diet of the panda is unlikely to be dictated by its own genetic composition, and may instead be more dependent on its gut microbiome.</cite>» <span id="CITEREFRuiqiang_Li_et_al.2010" class="citation journal">Ruiqiang Li et al. (2010). The sequence and de novo assembly of the giant panda genome.. <i>Nature</i> <b>463</b> (21): 311–317. <a href="/wiki/PMID" title="PMID">PMID</a>&#160;<a rel="nofollow" class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/20010809">20010809</a>. <a href="/wiki/%D0%A6%D0%B8%D1%84%D1%80%D0%BE%D0%B2%D0%B8%D0%B9_%D1%96%D0%B4%D0%B5%D0%BD%D1%82%D0%B8%D1%84%D1%96%D0%BA%D0%B0%D1%82%D0%BE%D1%80_%D0%BE%D0%B1%27%D1%94%D0%BA%D1%82%D0%B0" title="Цифровий ідентифікатор об&#39;єкта">doi</a>:<a rel="nofollow" class="external text" href="https://dx.doi.org/10.1038%2Fnature08696">10.1038/nature08696</a>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fuk.wikipedia.org%3A%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0+%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;rft.atitle=The+sequence+and+de+novo+assembly+of+the+giant+panda+genome.&amp;rft.au=Ruiqiang+Li+et+al.&amp;rft.aulast=Ruiqiang+Li+et+al.&amp;rft.date=2010&amp;rft.genre=article&amp;rft.issue=21&amp;rft.jtitle=Nature&amp;rft.pages=311%E2%80%93317&amp;rft.volume=463&amp;rft_id=info%3Adoi%2F10.1038%2Fnature08696&amp;rft_id=info%3Apmid%2F20010809&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://news.bbc.co.uk/2/hi/uk_news/wales/5095448.stm">Panda tests bring population hope&#160;— BBC News, 20 June 2006.</a></span>
+</li>
+<li id="cite_note-Johnson-6"><span class="mw-cite-backlink"><a href="#cite_ref-Johnson_6-0">↑</a></span> <span class="reference-text"><span class="citation news"><a href="/w/index.php?title=Russell_Ciochon&amp;action=edit&amp;redlink=1" class="new" title="Russell Ciochon (ще не написана)">Ciochon, Russell L.</a>; Eaves-Johnson, K. Lindsay (July 20, 2007). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20070721092645/http://www.scitizen.com/screens/blogPage/viewBlog/sw_viewBlog.php?idTheme=27&amp;idContribution=855">Bamboozled! The Curious Natural History of the Giant Panda Family</a>. <i>Scitizen</i>. Архів <a rel="nofollow" class="external text" href="http://scitizen.com/screens/blogPage/viewBlog/sw_viewBlog.php?idTheme=27&amp;idContribution=855">оригіналу</a> за 2007-07-21<span class="reference-accessdate">. Процитовано 2008-07-22</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fuk.wikipedia.org%3A%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0+%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;rft.atitle=Bamboozled%21+The+Curious+Natural+History+of+the+Giant+Panda+Family&amp;rft.au=Ciochon%2C+Russell+L.&amp;rft.au=Eaves-Johnson%2C+K.+Lindsay&amp;rft.aufirst=Russell+L.&amp;rft.aulast=Ciochon&amp;rft.date=July+20%2C+2007&amp;rft.genre=article&amp;rft.jtitle=Scitizen&amp;rft_id=http%3A%2F%2Fscitizen.com%2Fscreens%2FblogPage%2FviewBlog%2Fsw_viewBlog.php%3FidTheme%3D27%26idContribution%3D855&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<h2><span id=".D0.9F.D0.BE.D1.81.D0.B8.D0.BB.D0.B0.D0.BD.D0.BD.D1.8F"></span><span class="mw-headline" id="Посилання">Посилання</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;veaction=edit&amp;section=15" class="mw-editsection-visualeditor" title="Редагувати розділ: Посилання">ред.</a><span class="mw-editsection-divider"> | </span><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit&amp;section=15" title="Редагувати розділ: Посилання">ред. код</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" decoding="async" width="30" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist" style="">Вікісховище має мультимедійні дані за темою: <i><b><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Giant_Panda?uselang=uk">Giant Panda</a></span></b></i></td>
+</tr>
+
+</tbody></table>
+<table class="metadata mbox-small plainlinks" style="border:1px solid #aaa; background-color:#f9f9f9;">
+
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/34px-Wikispecies-logo.svg.png" decoding="async" width="34" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/51px-Wikispecies-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikispecies-logo.svg/68px-Wikispecies-logo.svg.png 2x" data-file-width="941" data-file-height="1103" /></td>
+<td class="mbox-text plainlist" style="">Проєкт <a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%B2%D0%B8%D0%B4%D0%B8" title="Віківиди">Віківиди</a> має  дані за темою:<div style="margin-left: 10px;"><i><b><a href="https://species.wikimedia.org/wiki/Ailuropoda_melanoleuca" class="extiw" title="wikispecies:Ailuropoda melanoleuca">Велика панда</a></b></i></div></td>
+</tr>
+
+</tbody></table>
+<ul><li><a rel="nofollow" class="external text" href="http://podrobnosti.ua/podrobnosti/2010/12/08/737374.html">Китайські зоологи у провінції Сичуань працюють у костюмах панд</a></li></ul>
+<table cellspacing="0" class="navbox" style="border-spacing:0"><tbody><tr><td style="padding:2px"><table cellspacing="0" class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="background: #CCF;"><div style="padding: 0px 18px 0px 0px; width: 100%;"><div style="float: left; padding-left: 4px;"><a href="/wiki/%D0%A8%D0%B0%D0%B1%D0%BB%D0%BE%D0%BD:%D0%91%D1%96%D0%B1%D0%BB%D1%96%D0%BE%D1%96%D0%BD%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D1%96%D1%8F" title="Перегляд цього шаблону"><img alt="Перегляд цього шаблону" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Searchtool.svg/14px-Searchtool.svg.png" decoding="async" width="14" height="14" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Searchtool.svg/21px-Searchtool.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Searchtool.svg/28px-Searchtool.svg.png 2x" data-file-width="512" data-file-height="512" /></a></div>&#160;&#160;Тематичні сайти</div></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<a rel="nofollow" class="external text" href="https://www.quora.com/topic/Pandas">Quora</a> · <a rel="nofollow" class="external text" href="https://www.quora.com/topic/Giant-Pandas">Quora</a></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group" style="background: #CCF;">Словники та енциклопедії</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<a rel="nofollow" class="external text" href="http://britannica.com/animal/giant-panda">Britannica (онлайн)</a> · <a rel="nofollow" class="external text" href="https://www.universalis.fr/encyclopedie/grand-panda/">Encyclopædia Universalis</a></div></td></tr><tr style="height:2px"><td></td></tr><tr><th scope="row" class="navbox-group" style="background: #CCF;"><a href="/wiki/%D0%9D%D0%BE%D1%80%D0%BC%D0%B0%D1%82%D0%B8%D0%B2%D0%BD%D0%B8%D0%B9_%D0%BA%D0%BE%D0%BD%D1%82%D1%80%D0%BE%D0%BB%D1%8C" title="Нормативний контроль">Нормативний контроль</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<a href="/wiki/Gemeinsame_Normdatei" title="Gemeinsame Normdatei">GND</a>:&#160;<a rel="nofollow" class="external text" href="http://d-nb.info/gnd/4269787-6">4269787-6</a> · <a href="/wiki/%D0%9D%D0%B0%D1%86%D1%96%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0_%D0%BF%D0%B0%D1%80%D0%BB%D0%B0%D0%BC%D0%B5%D0%BD%D1%82%D1%81%D1%8C%D0%BA%D0%B0_%D0%B1%D1%96%D0%B1%D0%BB%D1%96%D0%BE%D1%82%D0%B5%D0%BA%D0%B0_%D0%AF%D0%BF%D0%BE%D0%BD%D1%96%D1%97" title="Національна парламентська бібліотека Японії">NDL</a>:&#160;<a rel="nofollow" class="external text" href="http://id.ndl.go.jp/auth/ndlna/00843854">00843854</a></div></td></tr></tbody></table></td></tr></tbody></table>
+<table class="noprint nomobile" style="margin:.72em auto; text-align:center; width:100%; background:#f9f9f9; border:1px #aaa solid;">
+<tbody><tr>
+<td><div style="margin:-5px">
+<p><span style="padding:12px; line-height:24px" title="Тематичний портал «Китай» — детальний огляд теми в Вікіпедії"><span style="white-space: nowrap;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9A%D0%B8%D1%82%D0%B0%D0%B9" title="Портал:Китай"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/China_dragon.svg/24px-China_dragon.svg.png" decoding="async" width="24" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/China_dragon.svg/36px-China_dragon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/China_dragon.svg/48px-China_dragon.svg.png 2x" data-file-width="744" data-file-height="496" /></a>&#160;&#160;<b><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%9A%D0%B8%D1%82%D0%B0%D0%B9" title="Портал:Китай">Китай</a></b></span></span> <span style="padding:12px; line-height:24px" title="Тематичний портал «Азія» — детальний огляд теми в Вікіпедії"><span style="white-space: nowrap;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B7%D1%96%D1%8F" title="Портал:Азія"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cartography_of_Asia.svg/23px-Cartography_of_Asia.svg.png" decoding="async" width="23" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cartography_of_Asia.svg/34px-Cartography_of_Asia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Cartography_of_Asia.svg/45px-Cartography_of_Asia.svg.png 2x" data-file-width="350" data-file-height="371" /></a>&#160;&#160;<b><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%90%D0%B7%D1%96%D1%8F" title="Портал:Азія">Азія</a></b></span></span> <span style="padding:12px; line-height:24px" title="Тематичний портал «Біологія» — детальний огляд теми в Вікіпедії"><span style="white-space: nowrap;"><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D1%96%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" title="Портал:Біологія"><img alt="П:" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Green_DNA_icon.svg/24px-Green_DNA_icon.svg.png" decoding="async" width="24" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Green_DNA_icon.svg/36px-Green_DNA_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Green_DNA_icon.svg/48px-Green_DNA_icon.svg.png 2x" data-file-width="308" data-file-height="308" /></a>&#160;&#160;<b><a href="/wiki/%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB:%D0%91%D1%96%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" title="Портал:Біологія">Біологія</a></b></span></span>                      
+</p>
+</div>
+</td></tr></tbody></table>
+<!-- 
+NewPP limit report
+Parsed by mw1305
+Cached time: 20200413114322
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.512 seconds
+Real time usage: 0.912 seconds
+Preprocessor visited node count: 3670/1000000
+Post‐expand include size: 66581/2097152 bytes
+Template argument size: 13227/2097152 bytes
+Highest expansion depth: 20/40
+Expensive parser function count: 5/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 6303/5000000 bytes
+Number of Wikibase entities loaded: 2/400
+Lua time usage: 0.193/10.000 seconds
+Lua memory usage: 3.74 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  788.776      1 -total
+ 37.87%  298.682      1 Шаблон:Бібліоінформація
+ 37.25%  293.820      1 Шаблон:Картка:Таксономія
+ 19.02%  149.986      1 Шаблон:Вікідані/p18
+ 11.92%   93.985      1 Шаблон:Wikidata
+  8.37%   66.014      1 Шаблон:Примітки
+  6.90%   54.436      1 Шаблон:ВП-портали
+  6.42%   50.611     11 Шаблон:Taxobox_color
+  5.88%   46.367      1 Шаблон:Без_джерел
+  5.54%   43.682      1 Шаблон:Ambox
+-->
+
+<!-- Saved in parser cache with key ukwiki:pcache:idhash:15343-0!canonical and timestamp 20200413114322 and revision id 27505012
+ -->
+</div><noscript><img src="//uk.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>
+		<div class="printfooter">Отримано з <a dir="ltr" href="https://uk.wikipedia.org/w/index.php?title=Велика_панда&amp;oldid=27505012">https://uk.wikipedia.org/w/index.php?title=Велика_панда&amp;oldid=27505012</a></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%97" title="Спеціальна:Категорії">Категорії</a>: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A7%D0%B5%D1%80%D0%B2%D0%BE%D0%BD%D0%B8%D0%B9_%D1%81%D0%BF%D0%B8%D1%81%D0%BE%D0%BA_%D0%9C%D0%A1%D0%9E%D0%9F_%D1%83%D1%80%D0%B0%D0%B7%D0%BB%D0%B8%D0%B2%D0%B8%D1%85_%D0%B2%D0%B8%D0%B4%D1%96%D0%B2_(VU)" title="Категорія:Червоний список МСОП уразливих видів (VU)">Червоний список МСОП уразливих видів (VU)</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%92%D0%B5%D0%B4%D0%BC%D0%B5%D0%B4%D0%B5%D0%B2%D1%96" title="Категорія:Ведмедеві">Ведмедеві</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A1%D1%81%D0%B0%D0%B2%D1%86%D1%96_%D0%90%D0%B7%D1%96%D1%97" title="Категорія:Ссавці Азії">Ссавці Азії</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A2%D0%B2%D0%B0%D1%80%D0%B8%D0%BD%D0%B8-%D1%81%D0%B8%D0%BC%D0%B2%D0%BE%D0%BB%D0%B8" title="Категорія:Тварини-символи">Тварини-символи</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Приховані категорії: <ul><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A2%D0%B2%D0%B0%D1%80%D0%B8%D0%BD%D0%B8_%D0%B7%D0%B0_%D0%B0%D0%BB%D1%84%D0%B0%D0%B2%D1%96%D1%82%D0%BE%D0%BC" title="Категорія:Тварини за алфавітом">Тварини за алфавітом</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%82%D1%96,_%D1%89%D0%BE_%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D1%83%D1%8E%D1%82%D1%8C_%D0%B4%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D0%BE%D0%B2%D0%B8%D1%85_%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D1%8C_%D0%BD%D0%B0_%D0%B4%D0%B6%D0%B5%D1%80%D0%B5%D0%BB%D0%B0_%D0%B7_%D0%BB%D1%8E%D1%82%D0%BE%D0%B3%D0%BE_2019" title="Категорія:Статті, що потребують додаткових посилань на джерела з лютого 2019">Статті, що потребують додаткових посилань на джерела з лютого 2019</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A3%D1%81%D1%96_%D1%81%D1%82%D0%B0%D1%82%D1%82%D1%96,_%D1%89%D0%BE_%D0%BF%D0%BE%D1%82%D1%80%D0%B5%D0%B1%D1%83%D1%8E%D1%82%D1%8C_%D0%B4%D0%BE%D0%B4%D0%B0%D1%82%D0%BA%D0%BE%D0%B2%D0%B8%D1%85_%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D1%8C_%D0%BD%D0%B0_%D0%B4%D0%B6%D0%B5%D1%80%D0%B5%D0%BB%D0%B0" title="Категорія:Усі статті, що потребують додаткових посилань на джерела">Усі статті, що потребують додаткових посилань на джерела</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%A1%D1%82%D0%B0%D1%82%D1%82%D1%96_%D0%B7_%D1%82%D0%B2%D0%B5%D1%80%D0%B4%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F%D0%BC%D0%B8_%D0%B1%D0%B5%D0%B7_%D0%B4%D0%B6%D0%B5%D1%80%D0%B5%D0%BB" title="Категорія:Статті з твердженнями без джерел">Статті з твердженнями без джерел</a></li><li><a href="/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D1%96%D1%8F:%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%A1%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8_%D0%B7_%D0%BF%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F%D0%BC_%D0%BD%D0%B0_%D0%92%D1%96%D0%BA%D1%96%D0%B2%D0%B8%D0%B4%D0%B8" title="Категорія:Вікіпедія:Сторінки з посиланням на Віківиди">Вікіпедія:Сторінки з посиланням на Віківиди</a></li></ul></div></div>
+		<div class="visualClear"></div>
+		
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+    <h2>Навігаційне меню</h2>
+    <div id="mw-head">
+        
+        <div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+        	<h3 id="p-personal-label">Особисті інструменти</h3>
+        	<ul >
+        		
+        		<li id="pt-anonuserpage">Ви не увійшли до системи</li>
+        		<li id="pt-anontalk"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9C%D0%BE%D1%94_%D0%BE%D0%B1%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F" title="Обговорення редагувань з цієї IP-адреси [n]" accesskey="n">Обговорення</a></li><li id="pt-anoncontribs"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9C%D1%96%D0%B9_%D0%B2%D0%BD%D0%B5%D1%81%D0%BE%D0%BA" title="Список редагувань, зроблених з цієї IP-адреси [y]" accesskey="y">Внесок</a></li><li id="pt-createaccount"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D1%82%D0%B2%D0%BE%D1%80%D0%B8%D1%82%D0%B8_%D0%BE%D0%B1%D0%BB%D1%96%D0%BA%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B7%D0%B0%D0%BF%D0%B8%D1%81&amp;returnto=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0+%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Пропонуємо створити обліковий запис і увійти в систему; однак, це не обов&#039;язково">Створити обліковий запис</a></li><li id="pt-login"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%92%D1%85%D1%96%D0%B4&amp;returnto=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0+%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Заохочуємо Вас увійти в систему, але це необов&#039;язково. [o]" accesskey="o">Увійти</a></li>
+        	</ul>
+        </div>
+        <div id="left-navigation">
+            <div id="p-namespaces" role="navigation" class="vectorTabs " aria-labelledby="p-namespaces-label">
+            	<h3 id="p-namespaces-label">Простори назв</h3>
+            	<ul >
+            		<li id="ca-nstab-main" class="selected"><a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Вміст статті [c]" accesskey="c">Стаття</a></li><li id="ca-talk"><a href="/wiki/%D0%9E%D0%B1%D0%B3%D0%BE%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F:%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" rel="discussion" title="Обговорення змісту сторінки [t]" accesskey="t">Обговорення</a></li>
+            	</ul>
+            </div>
+            <div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+            	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+            	<h3 id="p-variants-label">
+            		<span>Варіанти</span>
+            	</h3>
+            	<ul class="menu" >
+            		
+            	</ul>
+            </div>
+        </div>
+        <div id="right-navigation">
+            <div id="p-views" role="navigation" class="vectorTabs " aria-labelledby="p-views-label">
+            	<h3 id="p-views-label">Перегляди</h3>
+            	<ul >
+            		<li id="ca-view" class="collapsible selected"><a href="/wiki/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0">Читати</a></li><li id="ca-ve-edit" class="collapsible"><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;veaction=edit" title="Редагувати цю сторінку [v]" accesskey="v">Редагувати</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=edit" title="Редагувати цю сторінку [e]" accesskey="e">Редагувати код</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=history" title="Журнал змін сторінки [h]" accesskey="h">Переглянути історію</a></li>
+            	</ul>
+            </div>
+            <div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+            	<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+            	<h3 id="p-cactions-label">
+            		<span>Ще</span>
+            	</h3>
+            	<ul class="menu" >
+            		
+            	</ul>
+            </div>
+            <div id="p-search" role="search">
+            	<h3 >
+            		<label for="searchInput">Пошук</label>
+            	</h3>
+            	<form action="/w/index.php" id="searchform">
+            		<div id="simpleSearch">
+            			<input type="search" name="search" placeholder="Пошук у Вікіпедії" title="Шукати у Вікіпедії [f]" accesskey="f" id="searchInput"/>
+            			<input type="hidden" value="Спеціальна:Пошук" name="title"/>
+            			<input type="submit" name="fulltext" value="Знайти" title="Знайти сторінки, що містять зазначений текст" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+            			<input type="submit" name="go" value="Перейти" title="Перейти до сторінки, що має точно таку назву (якщо вона існує)" id="searchButton" class="searchButton"/>
+            		</div>
+            	</form>
+            </div>
+        </div>
+    </div>
+    
+    <div id="mw-panel">
+    	<div id="p-logo" role="banner">
+    		<a  title="Перейти на головну сторінку" class="mw-wiki-logo" href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0"></a>
+    	</div>
+    	<div class="portal" role="navigation" id="p-navigation"  aria-labelledby="p-navigation-label">
+    		<h3  id="p-navigation-label">
+    			Навігація
+    		</h3>
+    		<div class="body">
+    			<ul><li id="n-mainpage-description"><a href="/wiki/%D0%93%D0%BE%D0%BB%D0%BE%D0%B2%D0%BD%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Перейти на головну сторінку [z]" accesskey="z">Головна сторінка</a></li><li id="n-currentevents"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D0%BE%D1%82%D0%BE%D1%87%D0%BD%D1%96_%D0%BF%D0%BE%D0%B4%D1%96%D1%97" title="Список поточних подій">Поточні події</a></li><li id="n-recentchanges"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D1%96_%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" title="Список останніх змін у цій вікі [r]" accesskey="r">Нові редагування</a></li><li id="n-newpages"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9D%D0%BE%D0%B2%D1%96_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8">Нові сторінки</a></li><li id="n-randompage"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%92%D0%B8%D0%BF%D0%B0%D0%B4%D0%BA%D0%BE%D0%B2%D0%B0_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B0" title="Переглянути випадкову сторінку [x]" accesskey="x">Випадкова стаття</a></li></ul>
+    			
+    		</div>
+    	</div>
+    	
+    	<div class="portal" role="navigation" id="p-Участь"  aria-labelledby="p-Участь-label">
+    		<h3  id="p-Участь-label">
+    			Участь
+    		</h3>
+    		<div class="body">
+    			<ul><li id="n-portal"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D0%BE%D1%80%D1%82%D0%B0%D0%BB_%D1%81%D0%BF%D1%96%D0%BB%D1%8C%D0%BD%D0%BE%D1%82%D0%B8" title="Про проект, про те, що Ви можете зробити, і що де шукати">Портал спільноти</a></li><li id="n-tavern"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9A%D0%BD%D0%B0%D0%B9%D0%BF%D0%B0" title="Місце для обговорення більшості питань">Кнайпа</a></li><li id="n-help"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%94%D0%BE%D0%B2%D1%96%D0%B4%D0%BA%D0%B0" title="Довідка з проекту">Довідка</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_uk.wikipedia.org&amp;uselang=uk" title="Підтримайте проект">Пожертвувати</a></li></ul>
+    			
+    		</div>
+    	</div>
+    	
+    	<div class="portal" role="navigation" id="p-tb"  aria-labelledby="p-tb-label">
+    		<h3  id="p-tb-label">
+    			Інструменти
+    		</h3>
+    		<div class="body">
+    			<ul><li id="t-whatlinkshere"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9F%D0%BE%D1%81%D0%B8%D0%BB%D0%B0%D0%BD%D0%BD%D1%8F_%D1%81%D1%8E%D0%B4%D0%B8/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Перелік усіх сторінок, які посилаються на цю сторінку [j]" accesskey="j">Посилання сюди</a></li><li id="t-recentchangeslinked"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9F%D0%BE%D0%B2%27%D1%8F%D0%B7%D0%B0%D0%BD%D1%96_%D1%80%D0%B5%D0%B4%D0%B0%D0%B3%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" rel="nofollow" title="Останні зміни на сторінках, на які посилається ця сторінка [k]" accesskey="k">Пов'язані редагування</a></li><li id="t-specialpages"><a href="/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D1%96_%D1%81%D1%82%D0%BE%D1%80%D1%96%D0%BD%D0%BA%D0%B8" title="Перелік спеціальних сторінок [q]" accesskey="q">Спеціальні сторінки</a></li><li id="t-permalink"><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;oldid=27505012" title="Постійне посилання на цю версію сторінки">Постійне посилання</a></li><li id="t-info"><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=info" title="Додаткові відомості про цю сторінку">Інформація про сторінку</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q33602" title="Посилання на пов’язаний елемент сховища даних [g]" accesskey="g">Елемент Вікіданих</a></li><li id="t-cite"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%A6%D0%B8%D1%82%D0%B0%D1%82%D0%B0&amp;page=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;id=27505012&amp;wpFormIdentifier=titleform" title="Інформація про те, як цитувати цю сторінку">Цитувати сторінку</a></li></ul>
+    			
+    		</div>
+    	</div>
+    	
+    	<div class="portal" role="navigation" id="p-wikibase-otherprojects"  aria-labelledby="p-wikibase-otherprojects-label">
+    		<h3  id="p-wikibase-otherprojects-label">
+    			В інших проектах
+    		</h3>
+    		<div class="body">
+    			<ul><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Ailuropoda_melanoleuca" hreflang="en">Вікісховище</a></li><li class="wb-otherproject-link wb-otherproject-species"><a href="https://species.wikimedia.org/wiki/Ailuropoda_melanoleuca" hreflang="en">Віківиди</a></li></ul>
+    			
+    		</div>
+    	</div>
+    	
+    	<div class="portal" role="navigation" id="p-coll-print_export"  aria-labelledby="p-coll-print_export-label">
+    		<h3  id="p-coll-print_export-label">
+    			Друк/експорт
+    		</h3>
+    		<div class="body">
+    			<ul><li id="coll-create_a_book"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:%D0%9A%D0%BD%D0%B8%D0%B3%D0%B0&amp;bookcmd=book_creator&amp;referer=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0+%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0">Створити книгу</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=%D0%A1%D0%BF%D0%B5%D1%86%D1%96%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0:ElectronPdf&amp;page=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0+%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;action=show-download-screen">Завантажити як PDF</a></li><li id="t-print"><a href="/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;printable=yes" title="Версія цієї сторінки для друку [p]" accesskey="p">Версія до друку</a></li></ul>
+    			
+    		</div>
+    	</div>
+    	
+    	<div class="portal" role="navigation" id="p-lang"  aria-labelledby="p-lang-label">
+    		<h3  id="p-lang-label">
+    			Іншими мовами
+    		</h3>
+    		<div class="body">
+    			<ul><li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Panda" title="Panda — африкаанс" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%89%B3%E1%88%8B%E1%89%85_%E1%8D%93%E1%8A%95%E1%8B%B3" title="ታላቅ ፓንዳ — амхарська" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Ailuropoda_melanoleuca" title="Ailuropoda melanoleuca — арагонська" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ang"><a href="https://ang.wikipedia.org/wiki/Cattbera" title="Cattbera — давньоанглійська" lang="ang" hreflang="ang" class="interlanguage-link-target">Ænglisc</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%A8%D8%A7%D9%86%D8%AF%D8%A7_%D8%B9%D9%85%D9%84%D8%A7%D9%82%D8%A9" title="باندا عملاقة — арабська" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Ailuropoda_melanoleuca" title="Ailuropoda melanoleuca — астурська" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-av"><a href="https://av.wikipedia.org/wiki/%D0%9A%D3%80%D1%83%D0%B4%D0%B8%D1%8F%D0%B1_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="КӀудияб панда — аварська" lang="av" hreflang="av" class="interlanguage-link-target">Авар</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/B%C3%B6y%C3%BCk_panda" title="Böyük panda — азербайджанська" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A8%D8%A4%DB%8C%D9%88%DA%A9_%D9%BE%D8%A7%D9%86%D8%AF%D8%A7" title="بؤیوک پاندا — South Azerbaijani" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-bcl"><a href="https://bcl.wikipedia.org/wiki/Panda" title="Panda — Central Bikol" lang="bcl" hreflang="bcl" class="interlanguage-link-target">Bikol Central</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Вялікая панда — білоруська" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-x-old.wikipedia.org/wiki/%D0%92%D1%8F%D0%BB%D1%96%D0%BA%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Вялікая панда — Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%8F%D0%BC%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Голяма панда — болгарська" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bi"><a href="https://bi.wikipedia.org/wiki/Panda" title="Panda — біслама" lang="bi" hreflang="bi" class="interlanguage-link-target">Bislama</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A6%BE%E0%A6%A8%E0%A7%8D%E0%A6%A1%E0%A6%BE" title="পান্ডা — банґла" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-bo"><a href="https://bo.wikipedia.org/wiki/%E0%BD%91%E0%BD%BC%E0%BD%98%E0%BC%8B%E0%BD%81%E0%BE%B2%E0%BC%8D" title="དོམ་ཁྲ། — тибетська" lang="bo" hreflang="bo" class="interlanguage-link-target">བོད་ཡིག</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Panda_bras" title="Panda bras — бретонська" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Panda" title="Panda — боснійська" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Panda_gegant" title="Panda gegant — каталонська" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cdo badge-Q17437796 badge-featuredarticle" title="вибрана стаття"><a href="https://cdo.wikipedia.org/wiki/M%C3%A0-h%E1%B9%B3%CC%80ng" title="Mà-hṳ̀ng — Min Dong Chinese" lang="cdo" hreflang="cdo" class="interlanguage-link-target">Mìng-dĕ̤ng-ngṳ̄</a></li><li class="interlanguage-link interwiki-ceb"><a href="https://ceb.wikipedia.org/wiki/Panda" title="Panda — себуанська" lang="ceb" hreflang="ceb" class="interlanguage-link-target">Cebuano</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Panda_velk%C3%A1" title="Panda velká — чеська" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Panda_Mawr" title="Panda Mawr — валлійська" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Panda" title="Panda — данська" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Gro%C3%9Fer_Panda" title="Großer Panda — німецька" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-dsb"><a href="https://dsb.wikipedia.org/wiki/Wjeliki_panda" title="Wjeliki panda — нижньолужицька" lang="dsb" hreflang="dsb" class="interlanguage-link-target">Dolnoserbski</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%93%CE%B9%CE%B3%CE%B1%CE%BD%CF%84%CE%B9%CE%B1%CE%AF%CE%BF_%CF%80%CE%AC%CE%BD%CF%84%CE%B1" title="Γιγαντιαίο πάντα — грецька" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Giant_panda" title="Giant panda — англійська" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Granda_pando" title="Granda pando — есперанто" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ailuropoda_melanoleuca" title="Ailuropoda melanoleuca — іспанська" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Hiidpanda" title="Hiidpanda — естонська" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Panda_handi" title="Panda handi — баскська" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%BE%D8%A7%D9%86%D8%AF%D8%A7" title="پاندا — перська" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Isopanda" title="Isopanda — фінська" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Panda_g%C3%A9ant" title="Panda géant — французька" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-frp"><a href="https://frp.wikipedia.org/wiki/Pand%C3%A2_g%C2%B7%C3%A8ant" title="Pandâ g·èant — арпітанська" lang="frp" hreflang="frp" class="interlanguage-link-target">Arpetan</a></li><li class="interlanguage-link interwiki-fy"><a href="https://fy.wikipedia.org/wiki/Reuzepanda" title="Reuzepanda — західнофризька" lang="fy" hreflang="fy" class="interlanguage-link-target">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Ollphanda" title="Ollphanda — ірландська" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gag"><a href="https://gag.wikipedia.org/wiki/B%C3%BC%C3%BCk_panda" title="Büük panda — гагаузька" lang="gag" hreflang="gag" class="interlanguage-link-target">Gagauz</a></li><li class="interlanguage-link interwiki-gan"><a href="https://gan.wikipedia.org/wiki/%E7%86%8A%E8%B2%93" title="熊貓 — ґань" lang="gan" hreflang="gan" class="interlanguage-link-target">贛語</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Oso_panda" title="Oso panda — галісійська" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-hak badge-Q17437796 badge-featuredarticle" title="вибрана стаття"><a href="https://hak.wikipedia.org/wiki/Meu-y%C3%B9ng" title="Meu-yùng — хаккаська" lang="hak" hreflang="hak" class="interlanguage-link-target">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-haw"><a href="https://haw.wikipedia.org/wiki/Hunam%C4%81u" title="Hunamāu — гавайська" lang="haw" hreflang="haw" class="interlanguage-link-target">Hawaiʻi</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A4%D7%A0%D7%93%D7%94_%D7%A2%D7%A0%D7%A7%D7%99%D7%AA" title="פנדה ענקית — іврит" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%BE" title="पाण्डा — гінді" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Veliki_panda" title="Veliki panda — хорватська" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hsb"><a href="https://hsb.wikipedia.org/wiki/Wulki_panda" title="Wulki panda — верхньолужицька" lang="hsb" hreflang="hsb" class="interlanguage-link-target">Hornjoserbsce</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/%C3%93ri%C3%A1spanda" title="Óriáspanda — угорська" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%84%D5%A5%D5%AE_%D5%BA%D5%A1%D5%B6%D5%A4%D5%A1" title="Մեծ պանդա — вірменська" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hyw"><a href="https://hyw.wikipedia.org/wiki/%D5%93%D5%A1%D5%B6%D5%BF%D5%A1" title="Փանտա — Western Armenian" lang="hyw" hreflang="hyw" class="interlanguage-link-target">Արեւմտահայերէն</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Ailuropoda_melanoleuca" title="Ailuropoda melanoleuca — інтерлінгва" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Panda" title="Panda — індонезійська" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Pando" title="Pando — ідо" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Pandabj%C3%B6rn" title="Pandabjörn — ісландська" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Ailuropoda_melanoleuca" title="Ailuropoda melanoleuca — італійська" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%88%E3%83%91%E3%83%B3%E3%83%80" title="ジャイアントパンダ — японська" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-jbo"><a href="https://jbo.wikipedia.org/wiki/cionmau_la_barda" title="cionmau la barda — ложбан" lang="jbo" hreflang="jbo" class="interlanguage-link-target">La .lojban.</a></li><li class="interlanguage-link interwiki-jv"><a href="https://jv.wikipedia.org/wiki/Panda" title="Panda — яванська" lang="jv" hreflang="jv" class="interlanguage-link-target">Jawa</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%91%E1%83%90%E1%83%9B%E1%83%91%E1%83%A3%E1%83%99%E1%83%98%E1%83%A1_%E1%83%93%E1%83%90%E1%83%97%E1%83%95%E1%83%98" title="ბამბუკის დათვი — грузинська" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D2%AE%D0%BB%D0%BA%D0%B5%D0%BD_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Үлкен панда — казахська" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%8C%80%EC%99%95%ED%8C%90%EB%8B%A4" title="대왕판다 — корейська" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-koi"><a href="https://koi.wikipedia.org/wiki/%D0%AB%D0%B4%D0%B6%D1%8B%D1%82_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Ыджыт панда — комі-перм’яцька" lang="koi" hreflang="koi" class="interlanguage-link-target">Перем Коми</a></li><li class="interlanguage-link interwiki-kw"><a href="https://kw.wikipedia.org/wiki/Panda_bras" title="Panda bras — корнійська" lang="kw" hreflang="kw" class="interlanguage-link-target">Kernowek</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Ailuropoda_melanoleuca" title="Ailuropoda melanoleuca — латинська" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lbe"><a href="https://lbe.wikipedia.org/wiki/%D0%A5%D1%8A%D1%83%D0%BD%D0%B0%D1%81%D1%81%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Хъунасса панда — Lak" lang="lbe" hreflang="lbe" class="interlanguage-link-target">Лакку</a></li><li class="interlanguage-link interwiki-lez"><a href="https://lez.wikipedia.org/wiki/%D0%95%D0%BA%D0%B5_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Еке панда — лезгінська" lang="lez" hreflang="lez" class="interlanguage-link-target">Лезги</a></li><li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Panda" title="Panda — Lingua Franca Nova" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Did%C5%BEioji_panda" title="Didžioji panda — литовська" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Liel%C4%81_panda" title="Lielā panda — латвійська" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%9A%D1%83%D0%B3%D1%83_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Кугу панда — Eastern Mari" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%8F%D0%B8%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Џиновска панда — македонська" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%AD%E0%B5%80%E0%B4%AE%E0%B5%BB_%E0%B4%AA%E0%B4%BE%E0%B5%BB%E0%B4%A1" title="ഭീമൻ പാൻഡ — малаялам" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%90%D0%B2%D0%B0%D1%80%D0%B3%D0%B0_%D1%85%D1%83%D0%BB%D1%81%D0%BD%D1%8B_%D0%B1%D0%B0%D0%B0%D0%B2%D0%B3%D0%B0%D0%B9" title="Аварга хулсны баавгай — монгольська" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%9A%E0%A4%82%E0%A4%A1_%E0%A4%AA%E0%A4%BE%E0%A4%82%E0%A4%A1%E0%A4%BE" title="प्रचंड पांडा — маратхі" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-mrj"><a href="https://mrj.wikipedia.org/wiki/%D0%9A%D0%BE%D0%B3%D0%BE_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Кого панда — Western Mari" lang="mrj" hreflang="mrj" class="interlanguage-link-target">Кырык мары</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Panda_Gergasi" title="Panda Gergasi — малайська" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%95%E1%80%94%E1%80%BA%E1%80%92%E1%80%AB%E1%80%9D%E1%80%80%E1%80%BA%E1%80%9D%E1%80%B6%E1%80%80%E1%80%BC%E1%80%AE%E1%80%B8" title="ပန်ဒါဝက်ဝံကြီး — бірманська" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nah"><a href="https://nah.wikipedia.org/wiki/Pandatl%C4%81cam%C4%81yeh" title="Pandatlācamāyeh — Nāhuatl" lang="nah" hreflang="nah" class="interlanguage-link-target">Nāhuatl</a></li><li class="interlanguage-link interwiki-nds-nl"><a href="https://nds-nl.wikipedia.org/wiki/Reuznpanda" title="Reuznpanda — нижньосаксонська" lang="nds-NL" hreflang="nds-NL" class="interlanguage-link-target">Nedersaksies</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%AA%E0%A4%BE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%BE" title="पाण्डा — непальська" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Reuzenpanda" title="Reuzenpanda — нідерландська" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Panda" title="Panda — норвезька (нюношк)" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Panda" title="Panda — норвезька (букмол)" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nv"><a href="https://nv.wikipedia.org/wiki/Shash_%C5%82izhin_d%C3%B3%C3%B3_%C5%82iga%C3%ADg%C3%AD%C3%AD" title="Shash łizhin dóó łigaígíí — навахо" lang="nv" hreflang="nv" class="interlanguage-link-target">Diné bizaad</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Panda_gigant" title="Panda gigant — окситанська" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%AA%E0%A8%BE%E0%A8%82%E0%A8%A1%E0%A8%BE" title="ਪਾਂਡਾ — панджабі" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Panda_wielka" title="Panda wielka — польська" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D9%BE%D8%A7%D9%86%DA%88%D8%A7" title="پانڈا — Western Punjabi" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-ps"><a href="https://ps.wikipedia.org/wiki/%D9%84%D9%88%DB%8C_%D9%BE%D8%A7%D9%86%DA%89%D8%A7" title="لوی پانډا — пушту" lang="ps" hreflang="ps" class="interlanguage-link-target">پښتو</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Panda-gigante" title="Panda-gigante — портуґальська" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-qu"><a href="https://qu.wikipedia.org/wiki/Hatun_panda" title="Hatun panda — кечуа" lang="qu" hreflang="qu" class="interlanguage-link-target">Runa Simi</a></li><li class="interlanguage-link interwiki-rm"><a href="https://rm.wikipedia.org/wiki/Panda_grond" title="Panda grond — ретороманська" lang="rm" hreflang="rm" class="interlanguage-link-target">Rumantsch</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Panda_mare" title="Panda mare — румунська" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%91%D0%BE%D0%BB%D1%8C%D1%88%D0%B0%D1%8F_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Большая панда — російська" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%A3%D0%BB%D0%B0%D1%85%D0%B0%D0%BD_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Улахан панда — якутська" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li><li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Panda" title="Panda — сардинська" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Panda_gicanti" title="Panda gicanti — сицилійська" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Giant_panda" title="Giant panda — шотландська" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sd"><a href="https://sd.wikipedia.org/wiki/%D9%BE%D8%A7%D9%86%DA%8A%D8%A7" title="پانڊا — сіндхі" lang="sd" hreflang="sd" class="interlanguage-link-target">سنڌي</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Velika_panda" title="Velika panda — сербсько-хорватська" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-simple badge-Q17437798 badge-goodarticle" title="добра стаття"><a href="https://simple.wikipedia.org/wiki/Giant_panda" title="Giant panda — Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Panda_ve%C4%BEk%C3%A1" title="Panda veľká — словацька" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Orja%C5%A1ki_panda" title="Orjaški panda — словенська" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Ariu_panda" title="Ariu panda — албанська" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%8F%D0%B8%D0%BD%D0%BE%D0%B2%D1%81%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Џиновска панда — сербська" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Panda" title="Panda — сунданська" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li><li class="interlanguage-link interwiki-sv badge-Q17437798 badge-goodarticle" title="добра стаття"><a href="https://sv.wikipedia.org/wiki/J%C3%A4ttepanda" title="Jättepanda — шведська" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Panda_Mkubwa" title="Panda Mkubwa — суахілі" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%BE%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%BE_%E0%AE%95%E0%AE%B0%E0%AE%9F%E0%AE%BF" title="பாண்டா கரடி — тамільська" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%9E%E0%B8%99%E0%B8%94%E0%B9%89%E0%B8%B2%E0%B8%A2%E0%B8%B1%E0%B8%81%E0%B8%A9%E0%B9%8C" title="แพนด้ายักษ์ — тайська" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Ailuropoda_melanoleuca" title="Ailuropoda melanoleuca — тагальська" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Dev_panda" title="Dev panda — турецька" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-tt"><a href="https://tt.wikipedia.org/wiki/%D0%97%D1%83%D1%80_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Зур панда — татарська" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-udm"><a href="https://udm.wikipedia.org/wiki/%D0%91%D0%B0%D0%B4%D3%9F%D1%8B%D0%BC_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0" title="Бадӟым панда — удмуртська" lang="udm" hreflang="udm" class="interlanguage-link-target">Удмурт</a></li><li class="interlanguage-link interwiki-ug"><a href="https://ug.wikipedia.org/wiki/%D9%85%DB%88%D8%B4%DB%88%D9%83%D8%A6%DB%90%D9%8A%D9%89%D9%82" title="مۈشۈكئېيىق — уйгурська" lang="ug" hreflang="ug" class="interlanguage-link-target">ئۇيغۇرچە / Uyghurche</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%AF%DB%8C%D9%88%D9%82%D8%A7%D9%85%D8%AA_%D9%BE%D8%A7%D9%86%DA%88%D8%A7" title="دیوقامت پانڈا — урду" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/G%E1%BA%A5u_tr%C3%BAc_l%E1%BB%9Bn" title="Gấu trúc lớn — вʼєтнамська" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Ailuropoda_melanoleuca" title="Ailuropoda melanoleuca — варай" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E5%A4%A7%E7%86%8A%E7%8C%AB" title="大熊猫 — уська китайська" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-za"><a href="https://za.wikipedia.org/wiki/Yungzmauh" title="Yungzmauh — чжуан" lang="za" hreflang="za" class="interlanguage-link-target">Vahcuengh</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%A4%A7%E7%86%8A%E7%8C%AB" title="大熊猫 — китайська" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="interlanguage-link interwiki-zh-classical"><a href="https://zh-classical.wikipedia.org/wiki/%E5%A4%A7%E7%86%8A%E8%B2%93" title="大熊貓 — Classical Chinese" lang="lzh" hreflang="lzh" class="interlanguage-link-target">文言</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/Niau-h%C3%AEm" title="Niau-hîm — Chinese (Min Nan)" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%86%8A%E8%B2%93" title="熊貓 — Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li></ul>
+    			<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q33602#sitelinks-wikipedia" title="Редагувати міжмовні посилання" class="wbc-editpage">Редагувати посилання</a></span></div>
+    		</div>
+    	</div>
+    	
+    </div>
+</div>
+
+<div id="footer" role="contentinfo" >
+	<ul id="footer-info" class="">
+		<li id="footer-info-lastmod"> Цю сторінку востаннє відредаговано о 10:35, 21 березня 2020.</li>
+		<li id="footer-info-copyright">Текст доступний на умовах ліцензії <a href="https://creativecommons.org/licenses/by-sa/3.0/">Creative Commons Attribution-ShareAlike</a>;
+також можуть діяти додаткові умови.
+Детальніше див. <a href="https://foundation.wikimedia.org/wiki/Умови_використання">Умови використання</a>.</li>
+	</ul>
+	<ul id="footer-places" class="">
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Політика конфіденційності</a></li>
+		<li id="footer-places-about"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%9F%D1%80%D0%BE" title="Вікіпедія:Про">Про Вікіпедію</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/%D0%92%D1%96%D0%BA%D1%96%D0%BF%D0%B5%D0%B4%D1%96%D1%8F:%D0%92%D1%96%D0%B4%D0%BC%D0%BE%D0%B2%D0%B0_%D0%B2%D1%96%D0%B4_%D0%B2%D1%96%D0%B4%D0%BF%D0%BE%D0%B2%D1%96%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%96" title="Вікіпедія:Відмова від відповідальності">Відмова від відповідальності</a></li>
+		<li id="footer-places-contact"><a href="//uk.wikipedia.org/wiki/Вікіпедія:Зворотний_зв%27язок">Зворотний зв'язок</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Розробники</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/uk.wikipedia.org">Статистика</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Куки</a></li>
+		<li id="footer-places-mobileview"><a href="//uk.m.wikipedia.org/w/index.php?title=%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Мобільний вигляд</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</div>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.512","walltime":"0.912","ppvisitednodes":{"value":3670,"limit":1000000},"postexpandincludesize":{"value":66581,"limit":2097152},"templateargumentsize":{"value":13227,"limit":2097152},"expansiondepth":{"value":20,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":6303,"limit":5000000},"entityaccesscount":{"value":2,"limit":400},"timingprofile":["100.00%  788.776      1 -total"," 37.87%  298.682      1 Шаблон:Бібліоінформація"," 37.25%  293.820      1 Шаблон:Картка:Таксономія"," 19.02%  149.986      1 Шаблон:Вікідані/p18"," 11.92%   93.985      1 Шаблон:Wikidata","  8.37%   66.014      1 Шаблон:Примітки","  6.90%   54.436      1 Шаблон:ВП-портали","  6.42%   50.611     11 Шаблон:Taxobox_color","  5.88%   46.367      1 Шаблон:Без_джерел","  5.54%   43.682      1 Шаблон:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.193","limit":"10.000"},"limitreport-memusage":{"value":3916873,"limit":52428800}},"cachereport":{"origin":"mw1305","timestamp":"20200413114322","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"\u0412\u0435\u043b\u0438\u043a\u0430 \u043f\u0430\u043d\u0434\u0430","url":"https:\/\/uk.wikipedia.org\/wiki\/%D0%92%D0%B5%D0%BB%D0%B8%D0%BA%D0%B0_%D0%BF%D0%B0%D0%BD%D0%B4%D0%B0","sameAs":"http:\/\/www.wikidata.org\/entity\/Q33602","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q33602","author":{"@type":"Organization","name":"\u0423\u0447\u0430\u0441\u043d\u0438\u043a\u0438 \u043f\u0440\u043e\u0435\u043a\u0442\u0456\u0432 \u0412\u0456\u043a\u0456\u043c\u0435\u0434\u0456\u0430"},"publisher":{"@type":"Organization","name":"\u0424\u043e\u043d\u0434 \u0412\u0456\u043a\u0456\u043c\u0435\u0434\u0456\u0430","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-01-11T19:31:15Z","dateModified":"2020-03-21T10:35:12Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/0\/0f\/Grosser_Panda.JPG","headline":"\u0432\u0438\u0434 \u0441\u0441\u0430\u0432\u0446\u0456\u0432"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":173,"wgHostname":"mw1262"});});</script></body></html>

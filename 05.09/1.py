@@ -1,0 +1,1 @@
+print("".join("  lol\n\nkek\t\n me\n\nm".split()))

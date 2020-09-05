@@ -1,0 +1,13 @@
+яблоко - apple;
+яблочко - apple;
+автобус - bus;
+маршрутка - bus;
+самолет - airplane;
+леталка - airplane;
+магия - magic;
+колдовство - magic;
+чародейство - magic;
+телефон - smartphone;
+смартфон - smartphone;
+мобила - smartphone;
+дракон - dragon;
