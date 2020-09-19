@@ -1,5 +1,6 @@
 from typing import Generator, Optional
 
+
 def generator_factory(files: list) -> Generator[str, Optional[int], None]:
     if len(files) < 2:
         return 
