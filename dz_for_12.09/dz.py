@@ -1,11 +1,12 @@
 from typing import Generator, Optional
 
 
-def generator_factory(files: list) -> Generator[str, Optional[int], None]:
-    if len(files) < 2:
-        return 
+def generator_factory(*args) -> Generator[str, Optional[int], None]:
     line = 1
     file = 1
+    files = list(args)
+    if len(files) < 2:
+        return
     while True:
         with open(files[file-1], 'r', encoding='UTF-8') as f:
             for j, i in enumerate(f):
@@ -19,7 +20,7 @@ def generator_factory(files: list) -> Generator[str, Optional[int], None]:
         line += 1
 
 
-gen = generator_factory(['one.txt', 'two.txt'])
+gen = generator_factory('one.txt', 'two.txt')
 print(next(gen))
 print(gen.send(2))
 print(next(gen))
