@@ -11,16 +11,11 @@ class FileMaker:
         return len(set(''.join(self.file.readlines())))
 
     def get_file_size(self):
-        memory_capacity_units = ['b', 'kb', 'mb', 'gb', 'tb']
-        size_unit = 'b'
-        size = len(''.join(self.file.readlines()).encode('utf-8'))
-        while size // 1024 > 0:
-            try:
-                size_unit = memory_capacity_units[memory_capacity_units.index(size_unit)+1]
-                size //= 1024
-            except IndexError:
-                break
-        return size, size_unit
+        size = len(self.file.read().encode("UTF-8"))
+        while size / 1024 > 0:
+            size = size / 1024
+            lol = "kb"
+        return size
 
     def add_text_to_start(self, text):
         self.file.seek(0)
@@ -36,4 +31,5 @@ class FileMaker:
 
 
 kek = FileMaker('kek', 'html')
-print(kek.get_file_size())
+print(kek.get_unic_elements())
+kek.close_file()
