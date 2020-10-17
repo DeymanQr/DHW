@@ -21,7 +21,6 @@ class Fraction:
                 b %= a
         return abs(a + b)
 
-
     def reduce_fraction(self):
         """Reduses fraction"""
         gcd = self.gcd(self.numerator, self.denominator)
@@ -45,10 +44,10 @@ class Fraction:
 
     def __truediv__(self, other):
         if other.numerator != 0:
-            final_fraction = Fraction(self.numerator*other.denominator, self.denominator*other.numerator) # a/b / c/d = a*d / b*c
+            final_fraction = Fraction(self.numerator*other.denominator, self.denominator*other.numerator) # a/b / c/d = a*b * d/c
             return final_fraction.reduce_fraction()
         raise ZeroDivisionError("division by zero")
 
     def __pow__(self, power, modulo=None):
-        final_fraction = Fraction(self.numerator**power, self.denominator**power) # a/b * c/d = a*c / b*d
+        final_fraction = Fraction(self.numerator ** (power.numerator / power.denominator), self.denominator ** (power.numerator / power.denominator)) # a/b ** c/d = a**(c/d)/b**(c/d)
         return final_fraction.reduce_fraction()

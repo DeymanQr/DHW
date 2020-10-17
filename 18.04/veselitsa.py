@@ -39,8 +39,8 @@ def hint(field, word):
 
 def rand_word():
     while True:
-        resp = requests.get("https://random-word-api.herokuapp.com/word?number=1")
-        yield resp.json()[0]
+        resp = requests.get("http://api.wordnik.com/v4/words.json/randomWords?minCorpusCount=0&limit=1&api_key=a2a73e7b926c924fad7001ca3111acd55af2ffabf50eb4ae5")
+        yield resp.json()[0]['word']
 
 
 def create_word_field(word):
