@@ -23,12 +23,14 @@ class Fraction:
 
     def reduce_fraction(self):
         """Reduses fraction"""
-        gcd = self.gcd(self.numerator, self.denominator)
-        while gcd > 1:
-            self.numerator //= gcd
-            self.denominator //= gcd
-            gcd = self.gcd(self.numerator, self.denominator)
+        divider = self.gcd(int(self.numerator), int(self.denominator))
         return Fraction(self.numerator, self.denominator)
+
+    def make_int_fraction(self):
+        while int(self.numerator) != self.numerator or int(self.denominator) != self.denominator:
+            self.numerator *= 10
+            self.denominator *= 10
+        return Fraction(int(self.numerator), int(self.denominator))
 
     def __add__(self, other):
         final_fraction = Fraction(self.numerator * other.denominator + other.numerator * self.denominator, self.denominator*other.denominator) # a/b + c/d = a*d+c*b / b*d
@@ -50,4 +52,7 @@ class Fraction:
 
     def __pow__(self, power, modulo=None):
         final_fraction = Fraction(self.numerator ** (power.numerator / power.denominator), self.denominator ** (power.numerator / power.denominator)) # a/b ** c/d = a**(c/d)/b**(c/d)
-        return final_fraction.reduce_fraction()
+        return final_fraction.make_int_fraction().reduce_fraction()
+
+
+print(Fraction(2, 3) ** Fraction(1, 2))
