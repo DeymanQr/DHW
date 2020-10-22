@@ -1,11 +1,20 @@
-class kek():
-    def lol(self, x):
-        print(x)
+class Rectangle:
+    def __init__(self, a, b):
+        self.a = a
+        self.b = b
 
-    @classmethod
-    def kok(cls, x):
-        print(x)
+    def perimeter(self):
+        return 2*(self.a+self.b)
 
-    @staticmethod
-    def zum(x):
-        print(x)
+    def area(self):
+        return self.a*self.b
+
+
+class Square(Rectangle):
+    def __init__(self, a, b=None):
+        super().__init__(a, b)
+        self.b = a
+
+
+cc = Square(12)
+print(cc.area())
