@@ -33,7 +33,9 @@ class Passenger(Person):
 class File_Reader:
     def __new__(cls, file_name, *args, **kwargs):
         with open(f"{file_name}.json", "r", encoding="UTF-8") as f:
-            return json.load(f)
+            answ = Passenger()
+            answ.input(*json.load(f))
+            return answ
 
 
 a = File_Reader('cities')
