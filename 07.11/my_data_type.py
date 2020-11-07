@@ -1,4 +1,25 @@
-class Ost:
+from abc import ABC, abstractmethod
+
+
+class AbstractOst(ABC):
+    @abstractmethod
+    def add(self, value):
+        pass
+
+    @abstractmethod
+    def remove(self, index, value):
+        pass
+
+    @abstractmethod
+    def index(self, key):
+        pass
+
+    @abstractmethod
+    def indexes(self, key):
+        pass
+
+
+class Ost(AbstractOst):
     def __init__(self, *args):
         self.__length = len(args)
         self.__counter = 0

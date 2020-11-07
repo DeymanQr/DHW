@@ -1,62 +1,80 @@
 import requests
+import json
+from typing import Union, List, Type, Optional
 
 
-class Crawler:
-    def __init__(self, *args, **kwargs):
-        self.__numb = int(input("Write some number:\t"))
-
-    def get_number(self):
-        return self.__numb
-
-    def change_number(self, new_numb: int, *args, **kwargs):
-        try:
-            self.__numb = new_numb
-            return True
-        except Exception:
-            return False
+class MetaEngine:
+    pass
 
 
-class Engine:
-    def __init__(self, domain: str, *args, **kwargs):
-        self.domain = domain
+class MetaParser:
+    pass
 
-    def get(self, numb_crawler: Crawler, *args, **kwargs):
-        resp = requests.get("http://" + self.domain + "/" + str(numb_crawler.get_number()))
+
+class Engine(MetaEngine):
+    @classmethod
+    def get(cls, link) -> requests.Response:
+        resp = requests.get(link)
         return resp
 
-    def post(self, numb_crawler: Crawler, data: list, *args, **kwargs):
-        resp = requests.get("http://" + self.domain + "/" + str(numb_crawler.get_number()))
-
-
-
-class Parser:
-    def __init__(self, resp: requests.Response, *args, **kwargs):
-        self.response = resp
-
-    def get_useful_data(self, *args, **kwargs):
-        return {
-            "number": int(self.response.url.split("/")[-1]),
-            "text": self.response.text,
-        }
-
-    def print_useful_data(self, *args, **kwargs):
-        data = {
-            "number": int(self.response.url.split("/")[-1]),
-            "text": self.response.text,
-        }
-        if "is a boring number." in data["text"] or "is an unremarkable number." in data["text"] or\
-                "is a number for which we're missing a fact (submit one to numbersapi at google mail!)." in data["text"] or\
-                "is an uninteresting number." in data["text"]:
-            print("We don't find any interesting facts about number", data["number"])
+    @classmethod
+    def post(cls, link: str, data: dict = None) -> requests.Response:
+        if data is None:
+            resp = requests.post(link)
         else:
-            print("Interesting fact about number", data["number"], ":", data["text"])
+            resp = requests.post(link, json=data)
+        return resp
 
 
-craw = Crawler()
-eng = Engine("numbersapi.com")
+class NumbersAPICrawler:
+    def __init__(self, numbers: List[Union[int]]):
+        self._numbers = numbers
+        self._engine = self.__set_engine()
+        self._parser = self.__set_parser()
 
-response = eng.get(craw)
+    @staticmethod
+    def __set_engine() -> Type[MetaEngine]:
+        return Engine
 
-pars = Parser(response)
+    @staticmethod
+    def __set_parser() -> Type[MetaParser]:
+        return NumbersAPIParser
 
-pars.print_useful_data()
+    @classmethod
+    def domain(cls) -> str:
+        return 'numbersapi.com'
+
+    @classmethod
+    def create_search_url(cls, numbers: List[int]) -> str:
+        numbers_str = ','.join([str(x) for x in numbers])
+        return f'http://{cls.domain()}/{numbers_str}'
+
+    def get_number_by_index(self, index: int) -> Optional[int]:
+        try:
+            return self._numbers[index]
+        except IndexError:
+            return None
+
+    def change_number_by_index(self, new_number: int, index: int) -> None:
+        if len(self._numbers) > index:
+            self._numbers[index] = new_number
+            return
+        raise IndexError('Index is out of range. We can not set new value')
+
+    def crawl(self):
+        url = self.create_search_url(self._numbers)
+        response = self._engine.get(url)
+        return self._parser.parse(response)
+
+
+class NumbersAPIParser(MetaParser):
+    @classmethod
+    def parse(cls, response: requests.Response) -> Union[dict, str]:
+        try:
+            return response.json()
+        except json.decoder.JSONDecodeError:
+            return response.text
+
+
+crawler = NumbersAPICrawler([42, 123])
+print(crawler.crawl())
