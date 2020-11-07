@@ -30,19 +30,40 @@ class Passenger(Person):
         print(self.dsity, self.asity, end=' ')
 
 
-class File_Reader:
-    def __new__(cls, file_name, *args, **kwargs):
-        with open(f"{file_name}.json", "r", encoding="UTF-8") as f:
-            answ = Passenger()
-            answ.input(*json.load(f))
-            return answ
+class FileWorker:
+    def __init__(self, file_name_read, file_name_write, *args, **kwargs):
+        self.file_name_read = file_name_read
+        self.file_name_write = file_name_write
+        with open(f"{self.file_name_read}.txt", "r", encoding="UTF-8") as f:
+            self.answ = Passenger()
+            items = []
+            int_items = [0, 2]
+            for i, j in enumerate(f.read().split(", ")):
+                if i in int_items: # if i.isdigit():
+                    items.append(int(j))
+                else:
+                    items.append(j)
+            self.answ.input(*items)
+
+    def retrun(self):
+        return self.answ
+
+    def pas_to_list(self, pas: Passenger):
+        return [i[1] for i in pas.__dict__.items()]
+
+    def write(self, pas: Passenger):
+        with open(f"{self.file_name_write}.txt", "a", encoding="UTF-8") as f:
+            f.write(", ".join(str(i) for i in self.pas_to_list(pas)) + "\n")
 
 
-a = File_Reader('cities')
-"""dpk = 10
-price = 0"""
+a = FileWorker('lol')
+a.retrun().print()
+print()
+b = Passenger()
+b.input(2, "lloyD", 1993, "A", "B")
+a.write(b)
 
-with open('cities.json', 'r', encoding='UTF-8') as f:
+"""with open('cities.json', 'r', encoding='UTF-8') as f:
     cities_data = json.loads(f.read())
 
 with open('passengers.json', 'r', encoding='UTF-8') as f:
@@ -52,13 +73,13 @@ passengers = [Passenger() for _ in range(len(passengers_data))]
 for i, j in enumerate(passengers):
     j.input(*passengers_data[i])
 
-"""for i in passengers:
+for i in passengers:
     for j in cities_data:
         if i.dsity == j[0] and i.asity == j[1] or i.dsity == j[1] and i.asity == j[0]:
             price += j[2] * dpk
             break
 
-print(price)"""
+print(price)
 
 cities = ["A", "B", "C", "D"]
 
@@ -92,4 +113,4 @@ for i in passengers_updated:
             if max_length < j[2]:
                 max_length, max_length_passenger = j[2], i
 
-print(max_length_passenger.name, max_length)
+print(max_length_passenger.name, max_length)"""
