@@ -140,4 +140,5 @@ class OpenWeatherAPIParser(AbstractParser):
 
 
 crawler = OpenWeatherAPICrawler("Kyiv")
+pp(crawler.crawl("WN"))
 pp(crawler.crawl("MAMT"))

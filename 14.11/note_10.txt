@@ -1,0 +1,4 @@
+id: 1; text: nvuueiqorufzuggxjjpkcfwqyyfvbqnwysktswlydisxduuslpjnnwkjsph; is_made: False
+id: 2; text: xiqhjoxxaiggxcqronewejlxxajuedlspiwwckwfiwivqpxcebwuqbwlyiwomtvpsgu; is_made: False
+id: 3; text: wxblxabnderjeidicaheknbdyubgtfgccwqfgtjfrkdxgvvqibjhntybwe; is_made: False
+14|11|2020
