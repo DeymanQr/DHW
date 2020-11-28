@@ -59,8 +59,8 @@ class Note(AbstractNote):
     def __init__(self, id: int, url: str, tasks: Optional[List[Task]] = None):
         self._id = id
         self._url = url
-        self.tasks = tasks
-        self._make_data = datetime.now().strftime("%d|%m|%Y")
+        self._tasks = tasks
+        self._make_data = None
         if tasks is None:
             self._tasks = []
 
@@ -69,6 +69,7 @@ class Note(AbstractNote):
             yield i
 
     def write(self):
+        self._make_data = datetime.now().strftime("%d|%m|%Y")
         with open(self._url, "w", encoding="UTF-8") as f:
             for i in self._tasks:
                 f.write(str(i)+'\n')
@@ -80,17 +81,21 @@ class Note(AbstractNote):
             if i._id == task._id:
                 raise IdError('Task with this id is already in Note.')
         self._tasks.append(task)
+        self.write()
         return
 
     def del_task(self, id: int):
         for i in self._tasks:
             if i._id == id:
                 self._tasks.remove(i)
+        self.write()
         return
 
     def change_task(self, id: int, **kwargs):
         for i in kwargs:
             self.__dict__[f"task_{str(id)}"].__dict__[str(i)] = kwargs[i]
+        self.write()
+        return
 
     def __getattr__(self, item: str) -> Task:
         if item[:5] == 'task_' and item[5:].isdigit():
@@ -101,7 +106,7 @@ class Note(AbstractNote):
 
 class Book(AbstractBook):
     def __init__(self, notes: Optional[List[Note]] = None):
-        self._notes = []
+        self._notes = notes
         if notes is None:
             self._notes = []
 
@@ -141,6 +146,3 @@ for i in range(10):
         book.__dict__['_notes'][-1].add_task(
             Task(j+1, "".join([random.choice(ascii_lowercase)for i in range(random.randint(50, 100))]))
         )
-
-for i in book:
-    i.write()

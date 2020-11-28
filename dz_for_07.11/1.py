@@ -69,7 +69,7 @@ class OpenWeatherAPICrawler(AbstractCrawler):
 
     @classmethod
     def api_key(cls) -> str:
-        return "95eb789aee367126d308f60f914b26e8"
+        return "sosi popu"
 
     @classmethod
     def create_search_url(cls, type: str) -> str:
