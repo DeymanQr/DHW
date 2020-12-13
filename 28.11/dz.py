@@ -55,7 +55,7 @@ class Fighter(AbstractFighter):
             raise TypeError('attribute \'name\' must be string!')
         self.__name = name
         if not isinstance(hp, int) or hp <= 0:
-            raise TypeError('attribute \'damage\' must be positive integer!')
+            raise TypeError('attribute \'damage\' must be positive integer!')# MAKE MY LolkekERROR
         self.__damage = damage
         if not isinstance(hp, int) or hp <= 0:
             raise TypeError('attribute \'hp\' must be positive integer!')
@@ -86,7 +86,7 @@ class Fighter(AbstractFighter):
         return self.__agility
 
     def attack(self, fighter):
-        if int(random.random() * 100) <= 100 - (fighter.get_strength() + fighter.get_agility()):
+        if int(random.random() * 100) <= self.get_agility() + self.get_strength():
             fighter.deal_damage(self.get_damage())
             return True
         return False
