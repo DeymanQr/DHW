@@ -31,7 +31,7 @@ class Number(AbstractNumber):
         self.fract = fract
 
     def __repr__(self):
-        return f"{self.integer}.{self.fract}"
+        return f"{self.integer}.{abs(self.fract)}"
 
     @decode__fracts
     def __add__(self, other):
@@ -65,7 +65,7 @@ class EvenNumberWithError(AbstractEvenNumber, Number):
 
 def change_even_numbs(f):
     def wrapper(self, integer, fract):
-        f(integer, fract)
+        f(self, integer, fract)
         integerr = [int(i) for i in str(self.integer)]
         fractt = [int(i) for i in str(self.fract)]
         for i in enumerate(integerr):
@@ -82,6 +82,14 @@ def change_even_numbs(f):
                     fractt[i[0]] = 8
                 else:
                     fractt[i[0]] = numb + 1
+        new_integer = 0
+        new_fract = 0
+        for i in enumerate(integer):
+            new_integer += i[1] * 10 ** i[0]
+        for i in enumerate(fractt):
+            new_fract += i[1] * 10 ** i[0]
+        self.integer = new_integer
+        self.fract = new_fract
     return wrapper
 
 
@@ -91,6 +99,5 @@ class EvenNumber(AbstractEvenNumber, Number):
         super().__init__(integer, fract)
 
 
-a = Number(1, 2)
-b = Number(2, 82)
-print(a + b)
+a = EvenNumber(23, 12)
+print(a)
