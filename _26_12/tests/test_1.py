@@ -21,10 +21,10 @@ class TestCRUD:
         print('CRUD created')
 
     def teardown_class(cls):
-        remove(path)
-        print('\nFile \'db.csv\' removed')
         del cls.crud
-        print('CRUD removed')
+        print('\nCRUD removed')
+        remove(path)
+        print('File \'db.csv\' removed')
 
     def test_read_1(self):
         assert self.crud.read(id=2) == [{
