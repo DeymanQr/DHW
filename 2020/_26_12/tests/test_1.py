@@ -92,7 +92,7 @@ class TestCRUD:
     def test_delete_1(self):
         self.crud.delete(name='Lol')
         with open(path, encoding='UTF-8') as f:
-            assert 'Lolik' not in ''.join(f.readlines())
+            assert 'Lol' not in ''.join(f.readlines())
 
     def test_delete_2(self):
         with open(path, encoding='UTF-8') as f:

@@ -89,8 +89,6 @@ class CRUD(AbstractCRUD):
                 else:
                     f.write(', '.join([str(i[j]) for j in self._keys.keys()]) + '\n')
 
-
-
     @kwargs_check
     def delete(self, **kwargs):
         data = self.read()
@@ -103,5 +101,5 @@ class CRUD(AbstractCRUD):
 
 if __name__ == '__main__':
     a = CRUD('C:/Users/skaku/Documents/all/Programming/Python_home/_26_12/tests/text.csv')
-    while True:
-        eval(input())
+    # while True:
+    #     eval(input())
