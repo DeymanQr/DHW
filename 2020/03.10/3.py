@@ -1,5 +1,3 @@
-import random
-
 class Base:
     def __init__(self):
         self.base = []

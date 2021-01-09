@@ -1,9 +1,7 @@
 from abc import ABC, abstractmethod
-from pprint import pprint as pp
 
 
 class AbstractCRUD(ABC):
-
     @abstractmethod
     def create(self, **kwargs):
         pass
@@ -13,7 +11,7 @@ class AbstractCRUD(ABC):
         pass
 
     @abstractmethod
-    def update(self, id, new_id, name, surname, bd, zodiac_sign, loves_green):
+    def update(self, item_id, **kwargs):
         pass
 
     @abstractmethod

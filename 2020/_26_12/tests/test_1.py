@@ -16,7 +16,7 @@ class TestCRUD:
     def setup_class(cls):
         with open(path, 'w', encoding='UTF-8') as f:
             f.write(text)
-        print('\nFile \'db.csv\' created')
+        print(f'\nFile \'{path}\' created')
         cls.crud = CRUD(path)
         print('CRUD created')
 
@@ -24,7 +24,7 @@ class TestCRUD:
         del cls.crud
         print('\nCRUD removed')
         remove(path)
-        print('File \'db.csv\' removed')
+        print(f'File \'{path}\' removed')
 
     def test_read_1(self):
         assert self.crud.read(id=2) == [{
@@ -65,11 +65,11 @@ class TestCRUD:
             assert ''.join(f.readlines()).count('Lol') == 2
 
     def test_update_1(self):
-        self.crud.update(10, name='Lolik')
+        self.crud.update(10, surname='Kekekk')
         with open(path, encoding='UTF-8') as f:
             for i in f:
                 if i.split(', ')[0] == '10':
-                    assert i.split(', ')[1] == 'Lolik'
+                    assert i.split(', ')[2] == 'Kekekk'
                     break
             else:
                 assert False
@@ -90,7 +90,7 @@ class TestCRUD:
         assert "'lol' is not a key" in str(e)
 
     def test_delete_1(self):
-        self.crud.delete(name='Lolik')
+        self.crud.delete(name='Lol')
         with open(path, encoding='UTF-8') as f:
             assert 'Lolik' not in ''.join(f.readlines())
 

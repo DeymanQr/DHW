@@ -3,7 +3,7 @@ import random
 
 
 def get_random_path():
-    path = "../../"
+    path = "../../../"
     os.chdir(path)
     for i in range(random.randint(10, 20)):
         while True:
