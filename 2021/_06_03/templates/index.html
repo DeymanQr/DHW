@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <title>Main page</title>
+</head>
+<body>
+<h1>Main</h1>
+<form method="post">
+    <p>Height (cm): <input type="number" name="height"></p>
+    <p>Weight (kg): <input type="number" name="weight"></p>
+    <p>Width (cm): <input type="number" name="width"></p>
+    <p><button type="submit">Send</button></p>
+</form>
+
+{% if answer %}
+<p>Data: {{ answer }}</p>
+{% endif %}
+
+{% if status %}
+<p>Your status: {{ status }}</p>
+{% endif %}
+
+{% with errors = get_flashed_messages(category_filter=["error"]) %}
+{% if errors %}
+<div style="position: fixed; left: 0; bottom: 0; width: 100%; text-align: center; background: rgba(232, 9, 9, 0.5); padding: 5px;">
+{% for error in errors %}
+    <p>{{ error }}</p>
+{% endfor %}
+</div>
+{% endif %}
+{% endwith %}
+</body>
+</html>

@@ -1,0 +1,18 @@
+{% extends 'base.html' %}
+
+{% block content %}
+<form method="post">
+	<div class="tik-tak-toe">
+		{% for i in data %}
+			{% if i[1] %}
+				<span class="tik-tak-toe__block">{{ i[1] }}</span>
+			{% else %}
+				<input type="submit" name='{{ i[0]+1 }}' value="" class="tik-tak-toe__block">
+			{% endif %}
+		{% endfor %}
+	</div>
+	{% if win %}
+		<h2 style="text-align: center;">{{ win }} had won!<br><a href="{{ url_for('reset') }}">Reset</a></h2>
+	{% endif %}
+</form>
+{% endblock %}

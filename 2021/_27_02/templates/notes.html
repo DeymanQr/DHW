@@ -1,0 +1,15 @@
+{% extends 'base.html' %}
+
+{% block content %}
+
+<form method="get">
+    <p>Part of note:</p><input type="text" name="part_of_note"><br>
+    <button type="submit">Find</button>
+</form>
+
+{% for note in notes %}
+<h2>{{ note }}</h2>
+{% else %}
+<p>Oops, there aren't any notes</p>
+{% endfor %}
+{% endblock %}

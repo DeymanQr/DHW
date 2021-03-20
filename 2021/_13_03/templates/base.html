@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<!--	<link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='css/style.css') }}">-->
+	{% if title %}
+	<title>{{ title }}</title>
+	{% else %}
+	<title>Tik-tak-toe</title>
+	{% endif %}
+	<style>
+		.tik-tak-toe {
+			display: flex;
+			display: -webkit-flex;
+			display: -moz-flex;
+			display: -ms-flex;
+			display: -o-flex;
+			flex-wrap: wrap;
+			margin: 0 auto;
+			text-align: center;
+		}
+
+		.tik-tak-toe__block {
+			width: 30%;
+			text-align: center;
+			margin: 1%;
+			position: relative;
+		}
+	</style>
+</head>
+<body>
+	<div class="wrapper">
+		{% block content %}
+		{% endblock %}
+	</div>
+</body>
+</html>

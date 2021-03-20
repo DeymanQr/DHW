@@ -1,5 +1,5 @@
 from abc import ABC, abstractmethod
-from time import time
+from time import time, sleep
 
 
 class AbstractFileChanger(ABC):
@@ -50,7 +50,6 @@ class FileChanger(AbstractFileChanger):
     def __init__(self, path, tax_cost):
         self._path = path
         self._tax_cost = tax_cost
-        self._next_id = 1
         self._sold_types = ('Regular purchase', 'Tax', 'Tax free purchase')
         self._keys = {'id': int, 'name': str, 'cost': float, 'time': float, 'type': str}
 
@@ -62,14 +61,13 @@ class FileChanger(AbstractFileChanger):
 
     @kwargs_check
     def create(self, **kwargs):
-        if len(kwargs.keys()) < len(self._keys.keys())-1:
+        if len(kwargs.keys()) < len(self._keys.keys()):
             raise TypeError('')
         with open(self._path, 'a', encoding='UTF-8') as f:
             obj = {}
             for i in kwargs:
                 obj[i] = str(kwargs[i])
             f.write(', '.join(obj.values()) + '\n')
-        self._next_id += 1
 
     def read(self, times=None, type=None):
         if times is None and type is None:
@@ -148,3 +146,8 @@ class FileChanger(AbstractFileChanger):
             elif i['type'] == 'Regular purchase':
                 summ += i['cost'] * self._tax_cost / 100
         return summ
+
+
+if __name__ == '__main__':
+    obj = FileChanger('db.csv', tax_cost=10)
+    print(obj.read(times=(1612001540.1396177, 1612001554.2756152)))
